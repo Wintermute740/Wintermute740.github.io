@@ -2,9 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 17:01:09 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 17:01:09 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 19:29:57 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 19:29:57 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+https
+</title><description><![CDATA[
+
+<p>While there are many advantages to using https for websites, one major drawback is that it breaks old browsers, making the web mostly useless for vintage computers. While github allows you to view my website via https, it allows me to not force users to use it, which means that users with old browsers can still load the site. And since the css separates the design of the site from the content, and I have kept the design pretty simple, it renders well even in text-only. Because retro-computing is one of my passions, I see this as a major win. :) (And if you ask me, the theme I "borrowed" from elsewhere looks absolutely amazing on a modern browser, and still has a nice retro feel to it, so... bonus.)
+</p>
+<p>Tags: <a href='tag_retro-computing.html'>retro-computing</a></p>
+<!-- text end -->
+]]></description><link>http://www.nitemarecafe.com/https.html</link>
+<guid>http://www.nitemarecafe.com/./https.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 04 Jul 2024 19:29:54 -0400</pubDate></item>
 <item><title>
 Old Posts
 </title><description><![CDATA[
