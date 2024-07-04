@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://Wintermute740.github.io/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 03 Jul 2024 22:43:46 -0400</lastBuildDate>
-<pubDate>Wed, 03 Jul 2024 22:43:46 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 09:50:17 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 09:50:17 -0400</pubDate>
 <atom:link href="http://Wintermute740.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+About Me
+</title><description><![CDATA[
+
+<h1>About Wintermute</h1><br />
+Hi, my name’s <a href="about.html">Wintermute</a>. Well, not my real name, but my handle, anyhow. Here’s a little about myself:  I’ve been blogging, on-and-off, since before it was even a term. I had written a tiny little php script somewhere around the year 2000 or so which allowed me to simply add entries to the main page of my site. It did not let me edit (unless I downloaded the entry, edited it, and re-uploaded it via ftp) or allow comments, but I think it still counts. Also, much later in the game, I wrote for a couple of Linux blogs and actually got paid for it. Hey. 20 bucks is 20 bucks. I did not say I got paid much for it ;)  Also, I’m a huge fan of <a href="http://amzn.to/2hCoQaD">Douglas Adams</a>. So much so that when I discovered <a href="http://h2g2.com/">h2g2.com</a> in 1999 or 2000 (I think. It was before the beeb took over. They’ve since sold it back off) I immediately signed up to become a “researcher.” My researcher number is <a href="http://h2g2.com/dna/h2g2/alabaster/U156736">156736</a>, and I still log into the site every now and then. I’d consider myself a hoopy frood who knows where his towel is.  It goes without saying that I’m also a fan of <a href="http://amzn.to/2hsvBsc">William Gibson</a>. 
+<hr />
+]]></description><link>http://Wintermute740.github.io/about.html</link>
+<guid>http://Wintermute740.github.io/./about.html</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 03 Jul 2024 21:13:41 -0400</pubDate></item>
 <item><title>
 De-Googling
 </title><description><![CDATA[
@@ -13,6 +24,7 @@ De-Googling
 </p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
 
 
 
