@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <meta name="theme-color" content="#00cc00">
+
+
+        <!-- Replace with whatever CSS you want to add -->
+        <link rel="stylesheet" href="https://tilde.team/css/hacker.css">
+        <link rel="stylesheet" href="card.css"> 
+
+        <link rel="alternate" type="application/rss+xml" title="subscribe to this page..." href="feed.rss" />
+
