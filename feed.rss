@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 10:31:54 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 10:31:54 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 11:24:55 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 11:24:55 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 De-Googling
@@ -14,18 +14,7 @@ De-Googling
 <p>If you're reading this at my domain, then DNS has propogated and all my old posts are elsewhere. I can still access them, but I would need to find a way to automate migrating them to here. I can easily export them, and then it would be a matter of some Linux-fu. The one thing I'm going to miss is comments, even though they were rarely used. Disqus is an option, but I can always be reached at the email address in the footer if you have any suggestions ;)
 </p>
 
-<p>Tags: <a href='tag_announcements.html'>announcements</a></p>
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
+<p>Tags: <a href='tag_announcements.html'>announcements</a></p><hr />
 ]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
 <dc:creator>Wintermute</dc:creator>
