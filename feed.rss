@@ -2,9 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 13:08:37 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 13:08:37 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 13:36:39 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 13:36:39 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Old Posts
+</title><description><![CDATA[
+
+<p>I am going to be going through old posts and importing any which I still find to be interesting, backdating them to when they were originally posted. I will also continue creating new posts as time allows.
+</p>
+
+<p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+<!-- text end -->
+]]></description><link>http://www.nitemarecafe.com/old-posts.html</link>
+<guid>http://www.nitemarecafe.com/./old-posts.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 04 Jul 2024 13:36:37 -0400</pubDate></item>
 <item><title>
 De-Googling
 </title><description><![CDATA[
