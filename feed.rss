@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 12:38:39 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 12:38:39 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 13:08:37 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 13:08:37 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 De-Googling
@@ -18,9 +18,23 @@ De-Googling
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 01 Jul 2024 21:13:41 -0400</pubDate></item>
+<item><title>
+The original welcome post
+</title><description><![CDATA[
+
+<p>Welcome to the new Nitemare Cafe site! Right now, posting is kind of a free-for-all, so be gentle! I'll probably make some changes to it in the near future, as I get time. <br><br/>(this post was originally posted using custom blog scripts)</p>
+
+<p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
+<!-- text end -->
+]]></description><link>http://www.nitemarecafe.com/the-original-welcome-post.html</link>
+<guid>http://www.nitemarecafe.com/./the-original-welcome-post.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 10 Jul 2003 08:30:00 -0400</pubDate></item>
 </channel></rss>
