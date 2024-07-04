@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 12:37:49 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 12:37:49 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 12:38:39 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 12:38:39 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 De-Googling
@@ -17,9 +17,10 @@ De-Googling
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
 <dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 03 Jul 2024 21:13:41 -0400</pubDate></item>
+<pubDate>Mon, 01 Jul 2024 21:13:41 -0400</pubDate></item>
 </channel></rss>
