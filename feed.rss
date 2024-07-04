@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://Wintermute740.github.io/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 03 Jul 2024 22:21:57 -0400</lastBuildDate>
-<pubDate>Wed, 03 Jul 2024 22:21:57 -0400</pubDate>
+<lastBuildDate>Wed, 03 Jul 2024 22:34:25 -0400</lastBuildDate>
+<pubDate>Wed, 03 Jul 2024 22:34:25 -0400</pubDate>
 <atom:link href="http://Wintermute740.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 De-Googling
@@ -13,6 +13,8 @@ De-Googling
 </p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
+
 
 
 
