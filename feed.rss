@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 04 Jul 2024 14:45:07 -0400</lastBuildDate>
-<pubDate>Thu, 04 Jul 2024 14:45:07 -0400</pubDate>
+<lastBuildDate>Thu, 04 Jul 2024 14:54:53 -0400</lastBuildDate>
+<pubDate>Thu, 04 Jul 2024 14:54:53 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Old Posts
@@ -13,6 +13,7 @@ Old Posts
 </p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
 
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/old-posts.html</link>
@@ -34,6 +35,7 @@ De-Googling
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
@@ -44,12 +46,11 @@ Area5150
 </title><description><![CDATA[
 
 <p>Here is an amazing video of the audience reaction of a demo running on an original IBM PC with CGA graphics:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="-xJZ9I4iqg8" src="https://www.youtube.com/embed/-xJZ9I4iqg8"></iframe>
-</p><p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xJZ9I4iqg8?si=aX6LjYV_OUKdZt1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p><p>
 And because I just recently acquired and restored an original IBM 5150 PC, here it is running on mine:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="isKPheMGi9E" src="https://www.youtube.com/embed/isKPheMGi9E"></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/isKPheMGi9E?si=1PGPQuN254CUGBUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p>Tags: <a href='tag_retro-computing.html'>retro-computing</a>, <a href='tag_8088.html'>8088</a>, <a href='tag_PC.html'>PC</a>, <a href='tag_IBM.html'>IBM</a>, <a href='tag_demo.html'>demo</a>, <a href='tag_demoscene.html'>demoscene</a>, <a href='tag_5150.html'>5150</a></p>
+
 
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/area5150.html</link>
@@ -63,6 +64,7 @@ The original welcome post
 <p>Welcome to the new Nitemare Cafe site! Right now, posting is kind of a free-for-all, so be gentle! I'll probably make some changes to it in the near future, as I get time. <br><br/>(this post was originally posted using custom blog scripts)</p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
 
 
 <!-- text end -->
