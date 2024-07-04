@@ -9,7 +9,7 @@
 
 
         <!-- Replace with whatever CSS you want to add -->
-        <link rel="stylesheet" href="blog.css">
+        <link rel="stylesheet" href="hacker.css">
         <link rel="stylesheet" href="card.css"> 
 
         <link rel="alternate" type="application/rss+xml" title="subscribe to this page..." href="feed.rss" />
