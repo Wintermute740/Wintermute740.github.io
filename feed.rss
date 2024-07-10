@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 07 Jul 2024 09:21:53 -0400</lastBuildDate>
-<pubDate>Sun, 07 Jul 2024 09:21:53 -0400</pubDate>
+<lastBuildDate>Wed, 10 Jul 2024 15:41:42 -0400</lastBuildDate>
+<pubDate>Wed, 10 Jul 2024 15:41:42 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+APRS
+</title><description><![CDATA[
+
+<p>I've been playing around with my HT and my Rasberry Pi 5, and after picking up a digirig and appropriate cable, I configured Direwolf on the Pi to act as an I-gate Digipeater. I've configured some other software and am looking for a packet BBS to connect to, but so far I'm not having much luck.</p>
+
+<p>I think it may be time to set up an actual base station, and maybe get a mobile station for my van. And maybe a radio for my RV. Plus build out the deck I had mentioned, since I've gotten a number of parts for it already.</p>
+
+<p>Tags: <a href='tag_amateur-radio.html'>amateur-radio</a>, <a href='tag_ham.html'>ham</a>, <a href='tag_aprs.html'>aprs</a></p>
+<!-- text end -->
+]]></description><link>http://www.nitemarecafe.com/aprs.html</link>
+<guid>http://www.nitemarecafe.com/./aprs.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 10 Jul 2024 15:41:37 -0400</pubDate></item>
 <item><title>
 KE8UXR
 </title><description><![CDATA[
