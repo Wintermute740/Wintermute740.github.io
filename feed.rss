@@ -2,9 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 27 Nov 2024 16:06:35 -0500</lastBuildDate>
-<pubDate>Wed, 27 Nov 2024 16:06:35 -0500</pubDate>
+<lastBuildDate>Wed, 27 Nov 2024 16:14:33 -0500</lastBuildDate>
+<pubDate>Wed, 27 Nov 2024 16:14:33 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Comments Enabled
+</title><description><![CDATA[
+
+<p>I don't like running a blog where I cannot interact with users, so comments are now enabled via <a href="https://disqus.com/">Disqus</a>. Unfortunately, it embeds 3rd-party JavaScript into the site in order to do so, but the only other way would be to do some forms, receiving those forms via email, and processing them via some hacked-together script. Since I prefer to moderate comments to keep spam away anyhow, this might not be so bad a solution, but Disqus is a little easier to do without much effort ;)
+</p>
+
+<p>Tags: <a href='tag_blogging.html'>blogging</a>, <a href='tag_comments.html'>comments</a></p>
+<!-- text end -->
+]]></description><link>http://www.nitemarecafe.com/comments-enabled.html</link>
+<guid>http://www.nitemarecafe.com/./comments-enabled.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 27 Nov 2024 16:14:29 -0500</pubDate></item>
 <item><title>
 Running
 </title><description><![CDATA[
@@ -153,21 +166,4 @@ De-Googling
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 01 Jul 2024 21:13:41 -0400</pubDate></item>
-<item><title>
-Area5150
-</title><description><![CDATA[
-
-<p>Here is an amazing video of the audience reaction of a demo running on an original IBM PC with CGA graphics:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-xJZ9I4iqg8?si=aX6LjYV_OUKdZt1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p><p>
-And because I just recently acquired and restored an original IBM 5150 PC, here it is running on mine:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/isKPheMGi9E?si=1PGPQuN254CUGBUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p>Tags: <a href='tag_retro-computing.html'>retro-computing</a>, <a href='tag_8088.html'>8088</a>, <a href='tag_PC.html'>PC</a>, <a href='tag_IBM.html'>IBM</a>, <a href='tag_demo.html'>demo</a>, <a href='tag_demoscene.html'>demoscene</a>, <a href='tag_5150.html'>5150</a></p>
-
-
-
-<!-- text end -->
-]]></description><link>http://www.nitemarecafe.com/area5150.html</link>
-<guid>http://www.nitemarecafe.com/./area5150.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 10 Aug 2022 08:30:40 -0400</pubDate></item>
 </channel></rss>
