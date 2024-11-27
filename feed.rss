@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 27 Nov 2024 15:39:04 -0500</lastBuildDate>
-<pubDate>Wed, 27 Nov 2024 15:39:04 -0500</pubDate>
+<lastBuildDate>Wed, 27 Nov 2024 16:06:35 -0500</lastBuildDate>
+<pubDate>Wed, 27 Nov 2024 16:06:35 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Running
@@ -13,6 +13,7 @@ Running
 <p>My 10yo daughter is in Cross Country this year, and this is her finishing her first-ever race with a 10:27.42 mile. This is about 2 minutes faster than an average 10yo beginner, and just a few seconds faster than an average 10yo novice. This papa is so proud of his little girl.</p>
 
 <p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_family.html'>family</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/running.html</link>
 <guid>http://www.nitemarecafe.com/./running.html</guid>
@@ -32,6 +33,7 @@ One by one, the penguins are stealing my sanity (yet again)
 
 
 <p>Tags: <a href='tag_ghost-hunters.html'>ghost-hunters</a>, <a href='tag_taps.html'>taps</a>, <a href='tag_ghosts-of-ohio.html'>ghosts-of-ohio</a>, <a href='tag_paranormal.html'>paranormal</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/one-by-one-the-penguins-are-stealing-my-sanity-yet-again.html</link>
 <guid>http://www.nitemarecafe.com/./one-by-one-the-penguins-are-stealing-my-sanity-yet-again.html</guid>
@@ -47,6 +49,7 @@ Rewatch: Northern Exposure
 <p>If you were a fan before, it's worth watching again. If you weren't, it's still worth catching a few episodes to see if the charm and the quirkiness draws you in. You'll chuckle a lot, and probably laugh a lot. You'll probably come away caring about the characters, because the show also makes you feel for them.</p>
 
 <p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_northern-exposure.html'>northern-exposure</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/rewatch-northern-exposure.html</link>
 <guid>http://www.nitemarecafe.com/./rewatch-northern-exposure.html</guid>
@@ -62,6 +65,7 @@ RV Life
 <p>Anyhow, anyone out there still reading my blog? And do they have any suggestions? wintermute@ my domain will get them to me ;)</p>
 
 <p>Tags: <a href='tag_RV.html'>RV</a>, <a href='tag_life.html'>life</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/rv-life.html</link>
 <guid>http://www.nitemarecafe.com/./rv-life.html</guid>
@@ -76,6 +80,7 @@ APRS
 <p>I think it may be time to set up an actual base station, and maybe get a mobile station for my van. And maybe a radio for my RV. Plus build out the deck I had mentioned, since I've gotten a number of parts for it already.</p>
 
 <p>Tags: <a href='tag_amateur-radio.html'>amateur-radio</a>, <a href='tag_ham.html'>ham</a>, <a href='tag_aprs.html'>aprs</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/aprs.html</link>
 <guid>http://www.nitemarecafe.com/./aprs.html</guid>
@@ -91,6 +96,7 @@ KE8UXR
 <p>As I mentioned, I previously purchased a Beofeng UV-5R HT, which I currently keep in my van in case of emergency. My plan is to use this radio with my Raspberry Pi 5, and a recently purchased Digirig Mobile, which is basically a USB sound card with PTT with cables available to interface it to various radios. I plan on getting a rugged case, similar to a Pelican case, to house the build and will be basically following the millions of online build tutorials for this. I also have a couple of SDRs, including a HackRF, and may implement one of more of these as well in order to play with amateur radio astronomy.</p>
 <p>My goals for the project is to have this as self-contained with the ability to use various digital radio modes. It should be rugged and weatherized. It should be battery-powered with the ability to charge via solar. It should include offline resources in case the Internet is unavailable. And it should include astronomy resources as well, as a portable rugged computer will come in handy for that hobby as well.</p>
 <p>Tags: <a href='tag_amateur-radio.html'>amateur-radio</a>, <a href='tag_ham.html'>ham</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/ke8uxr.html</link>
 <guid>http://www.nitemarecafe.com/./ke8uxr.html</guid>
@@ -103,6 +109,7 @@ https
 <p>While there are many advantages to using https for websites, one major drawback is that it breaks old browsers, making the web mostly useless for vintage computers. While github allows you to view my website via https, it allows me to not force users to use it, which means that users with old browsers can still load the site. And since the css separates the design of the site from the content, and I have kept the design pretty simple, it renders well even in text-only. Because retro-computing is one of my passions, I see this as a major win. :) (And if you ask me, the theme I "borrowed" from elsewhere looks absolutely amazing on a modern browser, and still has a nice retro feel to it, so... bonus.)
 </p>
 <p>Tags: <a href='tag_retro-computing.html'>retro-computing</a></p>
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/https.html</link>
 <guid>http://www.nitemarecafe.com/./https.html</guid>
@@ -116,6 +123,7 @@ Old Posts
 </p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
 
 
 <!-- text end -->
@@ -139,6 +147,7 @@ De-Googling
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
 <guid>http://www.nitemarecafe.com/./de-googling.html</guid>
@@ -153,6 +162,7 @@ Area5150
 And because I just recently acquired and restored an original IBM 5150 PC, here it is running on mine:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/isKPheMGi9E?si=1PGPQuN254CUGBUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p>Tags: <a href='tag_retro-computing.html'>retro-computing</a>, <a href='tag_8088.html'>8088</a>, <a href='tag_PC.html'>PC</a>, <a href='tag_IBM.html'>IBM</a>, <a href='tag_demo.html'>demo</a>, <a href='tag_demoscene.html'>demoscene</a>, <a href='tag_5150.html'>5150</a></p>
+
 
 
 <!-- text end -->
