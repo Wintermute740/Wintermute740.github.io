@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 27 Nov 2024 16:58:00 -0500</lastBuildDate>
-<pubDate>Wed, 27 Nov 2024 16:58:00 -0500</pubDate>
+<lastBuildDate>Thu, 05 Dec 2024 11:17:08 -0500</lastBuildDate>
+<pubDate>Thu, 05 Dec 2024 11:17:08 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Cross Country 2024
+</title><description><![CDATA[
+
+<p>I intended to do updates of my daughter's Cross Country <a href="https://www.nitemarecafe.com/running.html">running</a> times, but time got away from me. Instead, here's summary of her 2024 season:</p>
+<p>Her first 1 mile race that I posed about was on 8/24, and she finished in 10:27.</p>
+<p>During her following practice on 8/26, she ran a 14:36 mile. The slower time is probably due to the hotter weather, the practice course being a bit rougher, and she had just competed in her first race and didn't have any recocery time.<p>
+<p>She ran a 12:31 mile on 8/31.</p>
+<p>On 9/6, she had her first 2K race and finished in 13:54.</p>
+<p>On 9/17, she broke a 10 minute mile with a time of 9:52.</p>
+<p>Three days later, she ran another 2K and finished in 13:08.</p>
+<p>Her last race of the season was her longest yet, a 3K which she finished in 20:06.</p>
+<p>To cap off her season, there was one last timed mile at practice the following Monday, which she finished in 9:19, which was over five minutes faster than her first practice timed run and a over a minute faster than her first race.</p>
+<p>I am so proud of this girl's accomplishments this season, setting a new personal best almost every time she ran during her very first season of cross country.</p>
+
+<p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_cross-country.html'>cross-country</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/cross-country-2024.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/cross-country-2024.html</link>
+<guid>http://www.nitemarecafe.com/./cross-country-2024.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 05 Dec 2024 11:17:06 -0500</pubDate></item>
 <item><title>
 Comments Enabled
 </title><description><![CDATA[
@@ -207,33 +230,4 @@ Old Posts
 <guid>http://www.nitemarecafe.com/./old-posts.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 04 Jul 2024 13:36:37 -0400</pubDate></item>
-<item><title>
-De-Googling
-</title><description><![CDATA[
-
-<p>I am in the process of (mostly) removing Google from my life, and the first step is to move my site to <a href="https://github.com/Wintermute740">github</a>, of all places. There are some things I won't be able to get away from completely, such as my gmail account, but I can do things such as use an actual email client in order to minimize the impact. My phone is going the be the biggest challenge, but is probably the lowest priority on my list.
-</p>
-<p>If you're reading this at my domain, then DNS has propogated and all my old posts are elsewhere. I can still access them, but I would need to find a way to automate migrating them to here. I can easily export them, and then it would be a matter of some Linux-fu. The one thing I'm going to miss is comments, even though they were rarely used. Disqus is an option, but I can always be reached at the email address in the footer if you have any suggestions ;)
-</p>
-
-<p>Tags: <a href='tag_announcements.html'>announcements</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/de-googling.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/de-googling.html</link>
-<guid>http://www.nitemarecafe.com/./de-googling.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Mon, 01 Jul 2024 21:13:41 -0400</pubDate></item>
 </channel></rss>
