@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 05 Dec 2024 11:17:08 -0500</lastBuildDate>
-<pubDate>Thu, 05 Dec 2024 11:17:08 -0500</pubDate>
+<lastBuildDate>Thu, 05 Dec 2024 19:08:29 -0500</lastBuildDate>
+<pubDate>Thu, 05 Dec 2024 19:08:29 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Cross Country 2024
@@ -52,7 +52,9 @@ Comments Enabled
 Running
 </title><description><![CDATA[
 
-<p><center><a data-flickr-embed="true" href="https://www.flickr.com/photos/wintermute740/53946676093/in/album-72177720319756140" title="Mikaylee&#x27;s First Race"><img src="https://live.staticflickr.com/65535/53946676093_5f8a048125_o.jpg" width="600" height="534" alt="Mikaylee&#x27;s First Race"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center></p>
+<p><center>
+	<img src="images/53946676093_5f8a048125_o.jpg" alt="Mikaylee's First Race" />
+</center></p>
 <p>My 10yo daughter is in Cross Country this year, and this is her finishing her first-ever race with a 10:27.42 mile. This is about 2 minutes faster than an average 10yo beginner, and just a few seconds faster than an average 10yo novice. This papa is so proud of his little girl.</p>
 
 <p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_family.html'>family</a></p>
