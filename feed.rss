@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 05 Dec 2024 19:08:29 -0500</lastBuildDate>
-<pubDate>Thu, 05 Dec 2024 19:08:29 -0500</pubDate>
+<lastBuildDate>Thu, 05 Dec 2024 19:13:12 -0500</lastBuildDate>
+<pubDate>Thu, 05 Dec 2024 19:13:12 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Cross Country 2024
@@ -21,6 +21,7 @@ Cross Country 2024
 <p>I am so proud of this girl's accomplishments this season, setting a new personal best almost every time she ran during her very first season of cross country.</p>
 
 <p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_cross-country.html'>cross-country</a></p>
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/cross-country-2024.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -36,6 +37,7 @@ Comments Enabled
 </p>
 
 <p>Tags: <a href='tag_blogging.html'>blogging</a>, <a href='tag_comments.html'>comments</a></p>
+
 
 
 
@@ -58,6 +60,7 @@ Running
 <p>My 10yo daughter is in Cross Country this year, and this is her finishing her first-ever race with a 10:27.42 mile. This is about 2 minutes faster than an average 10yo beginner, and just a few seconds faster than an average 10yo novice. This papa is so proud of his little girl.</p>
 
 <p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_family.html'>family</a></p>
+
 
 
 
@@ -91,6 +94,7 @@ One by one, the penguins are stealing my sanity (yet again)
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/one-by-one-the-penguins-are-stealing-my-sanity-yet-again.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -108,6 +112,7 @@ Rewatch: Northern Exposure
 <p>If you were a fan before, it's worth watching again. If you weren't, it's still worth catching a few episodes to see if the charm and the quirkiness draws you in. You'll chuckle a lot, and probably laugh a lot. You'll probably come away caring about the characters, because the show also makes you feel for them.</p>
 
 <p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_northern-exposure.html'>northern-exposure</a></p>
+
 
 
 
@@ -137,6 +142,7 @@ RV Life
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/rv-life.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -153,6 +159,7 @@ APRS
 <p>I think it may be time to set up an actual base station, and maybe get a mobile station for my van. And maybe a radio for my RV. Plus build out the deck I had mentioned, since I've gotten a number of parts for it already.</p>
 
 <p>Tags: <a href='tag_amateur-radio.html'>amateur-radio</a>, <a href='tag_ham.html'>ham</a>, <a href='tag_aprs.html'>aprs</a></p>
+
 
 
 
@@ -182,6 +189,7 @@ KE8UXR
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/ke8uxr.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -196,6 +204,7 @@ https
 <p>While there are many advantages to using https for websites, one major drawback is that it breaks old browsers, making the web mostly useless for vintage computers. While github allows you to view my website via https, it allows me to not force users to use it, which means that users with old browsers can still load the site. And since the css separates the design of the site from the content, and I have kept the design pretty simple, it renders well even in text-only. Because retro-computing is one of my passions, I see this as a major win. :) (And if you ask me, the theme I "borrowed" from elsewhere looks absolutely amazing on a modern browser, and still has a nice retro feel to it, so... bonus.)
 </p>
 <p>Tags: <a href='tag_retro-computing.html'>retro-computing</a></p>
+
 
 
 
@@ -217,6 +226,7 @@ Old Posts
 </p>
 
 <p>Tags: <a href='tag_announcements.html'>announcements</a></p>
+
 
 
 
