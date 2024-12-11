@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 06 Dec 2024 08:04:41 -0500</lastBuildDate>
-<pubDate>Fri, 06 Dec 2024 08:04:41 -0500</pubDate>
+<lastBuildDate>Wed, 11 Dec 2024 11:34:22 -0500</lastBuildDate>
+<pubDate>Wed, 11 Dec 2024 11:34:22 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+lg15.com
+</title><description><![CDATA[
+
+<p>The official <a href="http://www.lg15.com">lg15.com</a> has been down for a few weeks now, and I have contacted Miles about it. While he responded when I first noticed it by saying he would check into it and asking if I wanted to help maintain it, he has not responded to any further inquiries. I do not know where it stands, but it appears that the web server has been shut down for some reason. It should be a matter of the hosting company starting it back up, and then the official site is back.</a>
+
+<p>That said, I am not one to wait around. ;) Since I have a bunch of the databases from when I previously helped to restore lgpedia, I set up an unofficial mirror at <a href="http://lg15.cassieiswatching.com">lg15.cassieiswatching.com</a>. I couldn't get the old version of phpBB2 to work properly, so I upgraded the forums to phpBB3. There's a quirk with the "last post" author and date, but otherwise all the old posts from 2007-ish are still there. For lgpedia, I just linked to an existing fan mirror of it.</p>
+
+<p>I built this on top of a couple old projects I had written for Cassie Watchers. The first one was a <a href="http://lg15.cassieiswatching.com/index.php">search</a> for the forums. The second was another search, this time for the <a href="http://lg15.cassieiswatching.com/comments.php">comments</a> from the old Wordpress version of the site. And finally, I had put together a list of all the <a href="http://lg15.cassieiswatching.com/Videos.php">videos</a> as a list of the old posts along with their comments.</p>
+
+<p>Tags: <a href='tag_lonelygirl15.html'>lonelygirl15</a>, <a href='tag_lg15.html'>lg15</a>, <a href='tag_cassieiswatching.html'>cassieiswatching</a>, <a href='tag_ciw.html'>ciw</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/lg15com.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/lg15com.html</link>
+<guid>http://www.nitemarecafe.com/./lg15com.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 11 Dec 2024 11:34:20 -0500</pubDate></item>
 <item><title>
 New Project: Dialup ISP
 </title><description><![CDATA[
@@ -212,25 +230,4 @@ KE8UXR
 <guid>http://www.nitemarecafe.com/./ke8uxr.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sun, 07 Jul 2024 09:21:51 -0400</pubDate></item>
-<item><title>
-https
-</title><description><![CDATA[
-
-<p>While there are many advantages to using https for websites, one major drawback is that it breaks old browsers, making the web mostly useless for vintage computers. While github allows you to view my website via https, it allows me to not force users to use it, which means that users with old browsers can still load the site. And since the css separates the design of the site from the content, and I have kept the design pretty simple, it renders well even in text-only. Because retro-computing is one of my passions, I see this as a major win. :) (And if you ask me, the theme I "borrowed" from elsewhere looks absolutely amazing on a modern browser, and still has a nice retro feel to it, so... bonus.)
-</p>
-<p>Tags: <a href='tag_retro-computing.html'>retro-computing</a></p>
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/https.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/https.html</link>
-<guid>http://www.nitemarecafe.com/./https.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 04 Jul 2024 19:29:54 -0400</pubDate></item>
 </channel></rss>
