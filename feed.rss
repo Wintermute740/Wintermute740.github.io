@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 02 Jan 2025 12:57:39 -0500</lastBuildDate>
-<pubDate>Thu, 02 Jan 2025 12:57:39 -0500</pubDate>
+<lastBuildDate>Sun, 05 Jan 2025 12:27:06 -0500</lastBuildDate>
+<pubDate>Sun, 05 Jan 2025 12:27:06 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+NAS
+</title><description><![CDATA[
+
+<p>For quite some time, I have beeing building servers out of outdated computers to use as network-attached storage but throwing as much storage into it as I can afford at the time.  I've currently got a moderately powerful early-generation i7 with 3 8TB drives in it (plus a separate 2TB boot and applications drive) running everything, but it is not very power-efficient, being probably a decade old or more at this point. So, I finally ordered my first proper NAS because if there's a chance I'll be living out of the RV at some point, I would like something a bit more power-friendly since I only have 30-amp service there. I plan to upgrade that at some point, and also go solar, but limiting my power requirements probably isn't a bad idea in general.</p>
+
+<p>Tags: <a href='tag_computers.html'>computers</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_storage.html'>storage</a>, <a href='tag_nas.html'>nas</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/nas.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/nas.html</link>
+<guid>http://www.nitemarecafe.com/./nas.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 05 Jan 2025 12:27:04 -0500</pubDate></item>
 <item><title>
 Scaremail
 </title><description><![CDATA[
@@ -232,31 +246,4 @@ RV Life
 <guid>http://www.nitemarecafe.com/./rv-life.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 03 Aug 2024 13:54:21 -0400</pubDate></item>
-<item><title>
-APRS
-</title><description><![CDATA[
-
-<p>I've been playing around with my HT and my Rasberry Pi 5, and after picking up a digirig and appropriate cable, I configured Direwolf on the Pi to act as an I-gate Digipeater. I've configured some other software and am looking for a packet BBS to connect to, but so far I'm not having much luck.</p>
-
-<p>I think it may be time to set up an actual base station, and maybe get a mobile station for my van. And maybe a radio for my RV. Plus build out the deck I had mentioned, since I've gotten a number of parts for it already.</p>
-
-<p>Tags: <a href='tag_amateur-radio.html'>amateur-radio</a>, <a href='tag_ham.html'>ham</a>, <a href='tag_aprs.html'>aprs</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/aprs.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/aprs.html</link>
-<guid>http://www.nitemarecafe.com/./aprs.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 10 Jul 2024 15:41:37 -0400</pubDate></item>
 </channel></rss>
