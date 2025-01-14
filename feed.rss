@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 13 Jan 2025 15:52:35 -0500</lastBuildDate>
-<pubDate>Mon, 13 Jan 2025 15:52:35 -0500</pubDate>
+<lastBuildDate>Tue, 14 Jan 2025 14:46:52 -0500</lastBuildDate>
+<pubDate>Tue, 14 Jan 2025 14:46:52 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Thermostat
+</title><description><![CDATA[
+
+<p>A silent scream. A monster in the machine. The monster is me.</p>
+
+<p>Tags: <a href='tag_puzzles.html'>puzzles</a>, <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/thermostat.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/thermostat.html</link>
+<guid>http://www.nitemarecafe.com/./thermostat.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Tue, 14 Jan 2025 14:46:49 -0500</pubDate></item>
 <item><title>
 Discord
 </title><description><![CDATA[
@@ -211,32 +225,4 @@ One by one, the penguins are stealing my sanity (yet again)
 <guid>http://www.nitemarecafe.com/./one-by-one-the-penguins-are-stealing-my-sanity-yet-again.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 17 Aug 2024 13:41:08 -0400</pubDate></item>
-<item><title>
-Rewatch: Northern Exposure
-</title><description><![CDATA[
-
-<p>I just finished a rewatch of <i>Northern Exposure</i> and I forgot how delightfully quirky it had gotten in spots. I also realize that when it was on first-run, I must have stopped watching somewhere during the 5th season.
-</p>
-<p>Overall, it holds up fairly well but definitely has a certain 90's charm. If this were my first watch, at my current age (instead of a younger adult), I'm not sure if that charm would have drawn me in if I weren't already a fan of the characters.</p>
-<p>If you were a fan before, it's worth watching again. If you weren't, it's still worth catching a few episodes to see if the charm and the quirkiness draws you in. You'll chuckle a lot, and probably laugh a lot. You'll probably come away caring about the characters, because the show also makes you feel for them.</p>
-
-<p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_northern-exposure.html'>northern-exposure</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/rewatch-northern-exposure.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/rewatch-northern-exposure.html</link>
-<guid>http://www.nitemarecafe.com/./rewatch-northern-exposure.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 08 Aug 2024 09:17:36 -0400</pubDate></item>
 </channel></rss>
