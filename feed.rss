@@ -2,15 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 18 Jan 2025 16:08:40 -0500</lastBuildDate>
-<pubDate>Sat, 18 Jan 2025 16:08:40 -0500</pubDate>
+<lastBuildDate>Tue, 21 Jan 2025 14:33:58 -0500</lastBuildDate>
+<pubDate>Tue, 21 Jan 2025 14:33:58 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
-<item><title>
-</title><description><![CDATA[
-]]></description><link>http://www.nitemarecafe.com/one-the-passing-of-my-father.html</link>
-<guid>http://www.nitemarecafe.com/./one-the-passing-of-my-father.html</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 16 Jan 2025 10:06:58 -0500</pubDate></item>
 <item><title>
 On the passing of my father
 </title><description><![CDATA[
@@ -81,6 +75,14 @@ On the passing of my father
  about his previous life.</p>
 
 <p>Tags: <a href='tag_family.html'>family</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/on-the-passing-of-my-father.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -95,6 +97,14 @@ Thermostat
 <p>A silent scream. A monster in the machine. The monster is me.</p>
 
 <p>Tags: <a href='tag_puzzles.html'>puzzles</a>, <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/thermostat.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -116,6 +126,13 @@ Discord
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
 <p>Tags: <a href='tag_discord.html'>discord</a>, <a href='tag_chat.html'>chat</a></p>
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/discord.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -130,6 +147,14 @@ NAS
 <p>For quite some time, I have beeing building servers out of outdated computers to use as network-attached storage but throwing as much storage into it as I can afford at the time.  I've currently got a moderately powerful early-generation i7 with 3 8TB drives in it (plus a separate 2TB boot and applications drive) running everything, but it is not very power-efficient, being probably a decade old or more at this point. So, I finally ordered my first proper NAS because if there's a chance I'll be living out of the RV at some point, I would like something a bit more power-friendly since I only have 30-amp service there. I plan to upgrade that at some point, and also go solar, but limiting my power requirements probably isn't a bad idea in general.</p>
 
 <p>Tags: <a href='tag_computers.html'>computers</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_storage.html'>storage</a>, <a href='tag_nas.html'>nas</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/nas.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -147,6 +172,14 @@ Scaremail
 </p>
 
 <p>Tags: <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a>, <a href='tag_scare.me.html'>scare.me</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/scaremail.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -169,6 +202,14 @@ lg15.com
 
 
 
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/lg15com.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -184,6 +225,14 @@ New Project: Dialup ISP
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/GQ0KTtMQ_8s?si=mVq7ksb_QOJaL7zZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p>
 <p>I hope to be able to duplicate their work. Why? Is it practical? No, it's not practical. But because I can? lol</p>
 <p>Tags: <a href='tag_dialup.html'>dialup</a>, <a href='tag_isp.html'>isp</a>, <a href='tag_usr-total-control.html'>usr-total-control</a></p>
+
+
+
+
+
+
+
+
 
 
 
@@ -216,6 +265,14 @@ Cross Country 2024
 
 
 
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/cross-country-2024.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -241,6 +298,14 @@ Comments Enabled
 
 
 
+
+
+
+
+
+
+
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/comments-enabled.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -248,4 +313,40 @@ Comments Enabled
 <guid>http://www.nitemarecafe.com/./comments-enabled.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 27 Nov 2024 16:14:29 -0500</pubDate></item>
+<item><title>
+Running
+</title><description><![CDATA[
+
+<p><center>
+	<img src="images/53946676093_5f8a048125_o.jpg" alt="Mikaylee's First Race" />
+</center></p>
+<p>My 10yo daughter is in Cross Country this year, and this is her finishing her first-ever race with a 10:27.42 mile. This is about 2 minutes faster than an average 10yo beginner, and just a few seconds faster than an average 10yo novice. This papa is so proud of his little girl.</p>
+
+<p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_family.html'>family</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/running.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/running.html</link>
+<guid>http://www.nitemarecafe.com/./running.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 25 Aug 2024 09:10:56 -0400</pubDate></item>
 </channel></rss>
