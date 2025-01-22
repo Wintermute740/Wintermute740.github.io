@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 21 Jan 2025 14:33:58 -0500</lastBuildDate>
-<pubDate>Tue, 21 Jan 2025 14:33:58 -0500</pubDate>
+<lastBuildDate>Tue, 21 Jan 2025 21:26:42 -0500</lastBuildDate>
+<pubDate>Tue, 21 Jan 2025 21:26:42 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Navbar
+</title><description><![CDATA[
+
+<p>I decided to add a navbar, because it may help someone find something they're looking for at some point, and rather than expend the braincells to do the minimal work to create the CSS from scratch, I just Googled it. And the colors used were perfect as-is. lol</p>
+
+<p>Tags: <a href='tag_navbar.html'>navbar</a>, <a href='tag_site.html'>site</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/navbar.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/navbar.html</link>
+<guid>http://www.nitemarecafe.com/./navbar.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Tue, 21 Jan 2025 21:26:39 -0500</pubDate></item>
 <item><title>
 On the passing of my father
 </title><description><![CDATA[
@@ -313,40 +327,4 @@ Comments Enabled
 <guid>http://www.nitemarecafe.com/./comments-enabled.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 27 Nov 2024 16:14:29 -0500</pubDate></item>
-<item><title>
-Running
-</title><description><![CDATA[
-
-<p><center>
-	<img src="images/53946676093_5f8a048125_o.jpg" alt="Mikaylee's First Race" />
-</center></p>
-<p>My 10yo daughter is in Cross Country this year, and this is her finishing her first-ever race with a 10:27.42 mile. This is about 2 minutes faster than an average 10yo beginner, and just a few seconds faster than an average 10yo novice. This papa is so proud of his little girl.</p>
-
-<p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_family.html'>family</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/running.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/running.html</link>
-<guid>http://www.nitemarecafe.com/./running.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sun, 25 Aug 2024 09:10:56 -0400</pubDate></item>
 </channel></rss>
