@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 21 Jan 2025 21:26:42 -0500</lastBuildDate>
-<pubDate>Tue, 21 Jan 2025 21:26:42 -0500</pubDate>
+<lastBuildDate>Mon, 27 Jan 2025 10:04:34 -0500</lastBuildDate>
+<pubDate>Mon, 27 Jan 2025 10:04:34 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Severance
+</title><description><![CDATA[
+
+<p>I posted this on FB, but I plan on giving that up soon, so I am repeating it here:</p>
+
+<p>Someone in a CRT group (on FB), of all places, recently recommended the TV show <i>Severance</i>, a few weeks before season 2 started. So I binged it to be ready for season 2, and it is a wonderfully quirky show which you'll either love or hate. People go through a procedure to separate their work lives from the rest of their lives. Literally. While they're an "innie," they have no memory of the outside world. They have no knowledge of their "outie's" lives at all. To them, they're always at the office. And the opposite is true. Their "outie" has no knowledge of their "innie's" lives, and none of their memories. They go to work, and their next memory is of them leaving work. It's an interesting concept on it's own, but there's also a strange cult, and rituals. Definitely worth checking out.</p>
+
+<p>On a related note, Apple TV+ is also adapting <i>Neuromancer</i> to TV, and has completed a couple of weeks of shooting in Tokyo so far. I'm <b>really</b> looking forward to that one!</p>
+
+<p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_severance.html'>severance</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/severance.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/severance.html</link>
+<guid>http://www.nitemarecafe.com/./severance.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Mon, 27 Jan 2025 10:04:31 -0500</pubDate></item>
 <item><title>
 Navbar
 </title><description><![CDATA[
@@ -294,37 +312,4 @@ Cross Country 2024
 <guid>http://www.nitemarecafe.com/./cross-country-2024.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 05 Dec 2024 11:17:06 -0500</pubDate></item>
-<item><title>
-Comments Enabled
-</title><description><![CDATA[
-
-<p>I don't like running a blog where I cannot interact with users, so comments are now enabled via <a href="https://disqus.com/">Disqus</a>. Unfortunately, it embeds 3rd-party JavaScript into the site in order to do so, but the only other way would be to do some forms, receiving those forms via email, and processing them via some hacked-together script. Since I prefer to moderate comments to keep spam away anyhow, this might not be so bad a solution, but Disqus is a little easier to do without much effort ;)
-</p>
-
-<p>Tags: <a href='tag_blogging.html'>blogging</a>, <a href='tag_comments.html'>comments</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/comments-enabled.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/comments-enabled.html</link>
-<guid>http://www.nitemarecafe.com/./comments-enabled.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 27 Nov 2024 16:14:29 -0500</pubDate></item>
 </channel></rss>
