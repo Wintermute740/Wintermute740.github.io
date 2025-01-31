@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 27 Jan 2025 10:04:34 -0500</lastBuildDate>
-<pubDate>Mon, 27 Jan 2025 10:04:34 -0500</pubDate>
+<lastBuildDate>Fri, 31 Jan 2025 12:52:57 -0500</lastBuildDate>
+<pubDate>Fri, 31 Jan 2025 12:52:57 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Network redesign
+</title><description><![CDATA[
+
+<p>I'm starting to redesign my home newtwork. I started by getting a new router which allows
+muliple WANs, with automatic failover from one to the other, because my primary ISP frequently
+has short outages during my workday. Since them, I've also upgraded my server from an old
+gaming PC to an actual NAS, running the same services I was on the server but via docker
+containers. I still have a couple services to move over, but that is mostly done. I also
+plan to upgrade my WiFi and such. I went with TPlink, as they are low-cost but offer the same
+functionality as many of the enterprise solutions out there. The router is already TP-Link,
+and I just purchased the controller. Next payday, I'll probably pick up a couple of APs and
+probably a POE switch.</p>
+
+<p>Tags: <a href='tag_tplink.html'>tplink</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_wifi.html'>wifi</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/network-redesign.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/network-redesign.html</link>
+<guid>http://www.nitemarecafe.com/./network-redesign.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 31 Jan 2025 12:52:55 -0500</pubDate></item>
 <item><title>
 Severance
 </title><description><![CDATA[
@@ -276,40 +298,4 @@ New Project: Dialup ISP
 <guid>http://www.nitemarecafe.com/./new-project-dialup-isp.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 06 Dec 2024 08:04:38 -0500</pubDate></item>
-<item><title>
-Cross Country 2024
-</title><description><![CDATA[
-
-<p>I intended to do updates of my daughter's Cross Country <a href="https://www.nitemarecafe.com/running.html">running</a> times, but time got away from me. Instead, here's summary of her 2024 season:</p>
-<p>Her first 1 mile race that I posed about was on 8/24, and she finished in 10:27.</p>
-<p>During her following practice on 8/26, she ran a 14:36 mile. The slower time is probably due to the hotter weather, the practice course being a bit rougher, and she had just competed in her first race and didn't have any recocery time.<p>
-<p>She ran a 12:31 mile on 8/31.</p>
-<p>On 9/6, she had her first 2K race and finished in 13:54.</p>
-<p>On 9/17, she broke a 10 minute mile with a time of 9:52.</p>
-<p>Three days later, she ran another 2K and finished in 13:08.</p>
-<p>Her last race of the season was her longest yet, a 3K which she finished in 20:06.</p>
-<p>To cap off her season, there was one last timed mile at practice the following Monday, which she finished in 9:19, which was over five minutes faster than her first practice timed run and a over a minute faster than her first race.</p>
-<p>I am so proud of this girl's accomplishments this season, setting a new personal best almost every time she ran during her very first season of cross country.</p>
-
-<p>Tags: <a href='tag_running.html'>running</a>, <a href='tag_cross-country.html'>cross-country</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/cross-country-2024.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/cross-country-2024.html</link>
-<guid>http://www.nitemarecafe.com/./cross-country-2024.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 05 Dec 2024 11:17:06 -0500</pubDate></item>
 </channel></rss>
