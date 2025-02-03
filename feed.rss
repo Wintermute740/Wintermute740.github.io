@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 31 Jan 2025 12:52:57 -0500</lastBuildDate>
-<pubDate>Fri, 31 Jan 2025 12:52:57 -0500</pubDate>
+<lastBuildDate>Mon, 03 Feb 2025 08:55:59 -0500</lastBuildDate>
+<pubDate>Mon, 03 Feb 2025 08:55:59 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+One-word review: Dog Man
+</title><description><![CDATA[
+
+<p>Dud</p>
+
+<p>Slightly longer review: I know. It's a movie meant for kids. My 10yo daughter 
+loves the books. She and my 6yo daughter seemed to enjoy it, but I was sitting 
+there feeling like I was in a 5-hour documentary on paperclips. Many kid's movies
+have plenty of humor aimed at the adults in the audience, but if this movie had 
+any of that I completely missed it. I think I laughed once as something that was 
+slightly humorous. The "Bad Guys" short they showed before the movie was 
+hilarious, though. ;)</p>
+
+<p>Tags: <a href='tag_one-word-reviews.html'>one-word-reviews</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_reviews.html'>reviews</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/one-word-review-dog-man.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/one-word-review-dog-man.html</link>
+<guid>http://www.nitemarecafe.com/./one-word-review-dog-man.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Mon, 03 Feb 2025 08:55:56 -0500</pubDate></item>
 <item><title>
 Network redesign
 </title><description><![CDATA[
@@ -271,31 +293,4 @@ lg15.com
 <guid>http://www.nitemarecafe.com/./lg15com.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 11 Dec 2024 11:34:20 -0500</pubDate></item>
-<item><title>
-New Project: Dialup ISP
-</title><description><![CDATA[
-
-<p>I have an old USR Total Control from Greenapple, and have been pondering how to put it back into service for awhile now. Looks like these guys have figured it out:<p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/GQ0KTtMQ_8s?si=mVq7ksb_QOJaL7zZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p>
-<p>I hope to be able to duplicate their work. Why? Is it practical? No, it's not practical. But because I can? lol</p>
-<p>Tags: <a href='tag_dialup.html'>dialup</a>, <a href='tag_isp.html'>isp</a>, <a href='tag_usr-total-control.html'>usr-total-control</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/new-project-dialup-isp.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/new-project-dialup-isp.html</link>
-<guid>http://www.nitemarecafe.com/./new-project-dialup-isp.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 06 Dec 2024 08:04:38 -0500</pubDate></item>
 </channel></rss>
