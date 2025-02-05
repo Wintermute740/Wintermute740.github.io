@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 05 Feb 2025 15:43:49 -0500</lastBuildDate>
-<pubDate>Wed, 05 Feb 2025 15:43:49 -0500</pubDate>
+<lastBuildDate>Wed, 05 Feb 2025 16:54:17 -0500</lastBuildDate>
+<pubDate>Wed, 05 Feb 2025 16:54:17 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+No further news of my father's passing
+</title><description><![CDATA[
+
+<p>A few weeks ago, I posted about <a href="https://www.nitemarecafe.com/on-the-passing-of-my-father.html">my father's passing on January 14</a>. Since then, I
+ have heard absolutely nothing. I find it peculiar that I still cannot find his 
+ obituary or notice of his funeral or anything else about it online. I expected 
+ to at least see a post on Facebook by the half-sister who notified me, but I 
+ have not even seen that. I find this rather... peculiar... </p>
+
+<p>Tags: <a href='tag_family.html'>family</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/no-further-news-of-my-fathers-passing.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/no-further-news-of-my-fathers-passing.html</link>
+<guid>http://www.nitemarecafe.com/./no-further-news-of-my-fathers-passing.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 05 Feb 2025 16:54:15 -0500</pubDate></item>
 <item><title>
 Feedburner
 </title><description><![CDATA[
@@ -260,30 +278,4 @@ NAS
 <guid>http://www.nitemarecafe.com/./nas.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sun, 05 Jan 2025 12:27:04 -0500</pubDate></item>
-<item><title>
-Scaremail
-</title><description><![CDATA[
-
-<p>
-<center><a href="https://davidviergutz.com/rod65"><img src="images/scaremail.jpg" alt="scaremail" /></a></center></p>
-<p>It's not quite an ARG, but it has many elements of one. Horror author David Viergutz has created a very ARG-like experience delivered as two letters per month for a year, which I bought for my wife some time back. I decided I wanted my own copy, so I ordered it for myself as well about a month later, putting me two letters behind her in the experience. There are websites to visit, phone numbers to call, etc., though I don't believe they will have much impact on the story other than making it feel more interactive. I'm currently eight letters in, out of twenty-four, and it is starting to get a bit creepy. The story is told as letters back and forth between a reader and David, with several other artifacts being included along the way. I've been enjoying it so much that I've been thinking CiW could use the same type of treatment, and if I could get more than an introductory letter, I'd probably launch something similar. ;)
-</p>
-
-<p>Tags: <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a>, <a href='tag_scare.me.html'>scare.me</a></p>
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/scaremail.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/scaremail.html</link>
-<guid>http://www.nitemarecafe.com/./scaremail.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 01 Jan 2025 17:48:37 -0500</pubDate></item>
 </channel></rss>
