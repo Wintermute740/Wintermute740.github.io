@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 03 Feb 2025 08:55:59 -0500</lastBuildDate>
-<pubDate>Mon, 03 Feb 2025 08:55:59 -0500</pubDate>
+<lastBuildDate>Wed, 05 Feb 2025 15:36:50 -0500</lastBuildDate>
+<pubDate>Wed, 05 Feb 2025 15:36:50 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 One-word review: Dog Man
@@ -20,6 +20,7 @@ slightly humorous. The "Bad Guys" short they showed before the movie was
 hilarious, though. ;)</p>
 
 <p>Tags: <a href='tag_one-word-reviews.html'>one-word-reviews</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_reviews.html'>reviews</a></p>
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/one-word-review-dog-man.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -42,6 +43,7 @@ and I just purchased the controller. Next payday, I'll probably pick up a couple
 probably a POE switch.</p>
 
 <p>Tags: <a href='tag_tplink.html'>tplink</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_wifi.html'>wifi</a></p>
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/network-redesign.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -60,6 +62,7 @@ Severance
 <p>On a related note, Apple TV+ is also adapting <i>Neuromancer</i> to TV, and has completed a couple of weeks of shooting in Tokyo so far. I'm <b>really</b> looking forward to that one!</p>
 
 <p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_severance.html'>severance</a></p>
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/severance.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -74,6 +77,7 @@ Navbar
 <p>I decided to add a navbar, because it may help someone find something they're looking for at some point, and rather than expend the braincells to do the minimal work to create the CSS from scratch, I just Googled it. And the colors used were perfect as-is. lol</p>
 
 <p>Tags: <a href='tag_navbar.html'>navbar</a>, <a href='tag_site.html'>site</a></p>
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/navbar.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -159,6 +163,7 @@ On the passing of my father
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/on-the-passing-of-my-father.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -173,6 +178,7 @@ Thermostat
 <p>A silent scream. A monster in the machine. The monster is me.</p>
 
 <p>Tags: <a href='tag_puzzles.html'>puzzles</a>, <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a></p>
+
 
 
 
@@ -209,6 +215,7 @@ Discord
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/discord.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -223,6 +230,7 @@ NAS
 <p>For quite some time, I have beeing building servers out of outdated computers to use as network-attached storage but throwing as much storage into it as I can afford at the time.  I've currently got a moderately powerful early-generation i7 with 3 8TB drives in it (plus a separate 2TB boot and applications drive) running everything, but it is not very power-efficient, being probably a decade old or more at this point. So, I finally ordered my first proper NAS because if there's a chance I'll be living out of the RV at some point, I would like something a bit more power-friendly since I only have 30-amp service there. I plan to upgrade that at some point, and also go solar, but limiting my power requirements probably isn't a bad idea in general.</p>
 
 <p>Tags: <a href='tag_computers.html'>computers</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_storage.html'>storage</a>, <a href='tag_nas.html'>nas</a></p>
+
 
 
 
@@ -256,6 +264,7 @@ Scaremail
 
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/scaremail.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -274,6 +283,7 @@ lg15.com
 <p>I built this on top of a couple old projects I had written for Cassie Watchers. The first one was a <a href="http://lg15.cassieiswatching.com/index.php">search</a> for the forums. The second was another search, this time for the <a href="http://lg15.cassieiswatching.com/comments.php">comments</a> from the old Wordpress version of the site. And finally, I had put together a list of all the <a href="http://lg15.cassieiswatching.com/Videos.php">videos</a> as a list of the old posts along with their comments.</p>
 
 <p>Tags: <a href='tag_lonelygirl15.html'>lonelygirl15</a>, <a href='tag_lg15.html'>lg15</a>, <a href='tag_cassieiswatching.html'>cassieiswatching</a>, <a href='tag_ciw.html'>ciw</a></p>
+
 
 
 
