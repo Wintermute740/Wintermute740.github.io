@@ -2,9 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 07 Feb 2025 09:39:59 -0500</lastBuildDate>
-<pubDate>Fri, 07 Feb 2025 09:39:59 -0500</pubDate>
+<lastBuildDate>Fri, 07 Feb 2025 15:00:28 -0500</lastBuildDate>
+<pubDate>Fri, 07 Feb 2025 15:00:28 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Screaming into the void
+</title><description><![CDATA[
+
+<p>For the two people following here, you may have noticed that I've been 
+ screaming into the void a bit more often that I was. I have been turning here
+ instead of Facebook a bit more whenever I have something to say. It seems to
+ help me stay off of FB a bit more. ;)</p>
+
+<p>Tags: <a href='tag_blogging.html'>blogging</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/screaming-into-the-void.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/screaming-into-the-void.html</link>
+<guid>http://www.nitemarecafe.com/./screaming-into-the-void.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 07 Feb 2025 15:00:26 -0500</pubDate></item>
 <item><title>
 Payphone
 </title><description><![CDATA[
@@ -256,27 +273,4 @@ On the passing of my father
 <guid>http://www.nitemarecafe.com/./on-the-passing-of-my-father.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 16 Jan 2025 10:06:58 -0500</pubDate></item>
-<item><title>
-Thermostat
-</title><description><![CDATA[
-
-<p>A silent scream. A monster in the machine. The monster is me.</p>
-
-<p>Tags: <a href='tag_puzzles.html'>puzzles</a>, <a href='tag_arg.html'>arg</a>, <a href='tag_scaremail.html'>scaremail</a></p>
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/thermostat.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/thermostat.html</link>
-<guid>http://www.nitemarecafe.com/./thermostat.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Tue, 14 Jan 2025 14:46:49 -0500</pubDate></item>
 </channel></rss>
