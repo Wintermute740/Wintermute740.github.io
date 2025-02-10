@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 08 Feb 2025 23:25:24 -0500</lastBuildDate>
-<pubDate>Sat, 08 Feb 2025 23:25:24 -0500</pubDate>
+<lastBuildDate>Mon, 10 Feb 2025 14:40:13 -0500</lastBuildDate>
+<pubDate>Mon, 10 Feb 2025 14:40:13 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Cloudflare
 </title><description><![CDATA[
 
 <p>I may, at some point, move this site back to self-hosting, as I have managed
-to get a reverse-proxy setup so that lg15.cassieiswatching.com works whichever
+to get a reverse-proxy setup so that <a href="lg15.cassieiswatching.com">lg15.cassieiswatching.com</a>  works whichever
 upstream ISP is working at the moment. This allows me to self-host even if
 carrier-grade NAT is being used. I suggest watching the embedded video for a
 quick how-to.</p>
