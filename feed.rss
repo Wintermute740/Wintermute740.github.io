@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 12 Feb 2025 14:59:47 -0500</lastBuildDate>
-<pubDate>Wed, 12 Feb 2025 14:59:47 -0500</pubDate>
+<lastBuildDate>Wed, 12 Feb 2025 15:03:20 -0500</lastBuildDate>
+<pubDate>Wed, 12 Feb 2025 15:03:20 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Home Automation
 </title><description><![CDATA[
 
-<p><img src="images/Homarr.jpg" /></p>
+<p><img src="images/Homarr.jpg" width="100%" /></p>
 
 <p>I've been playing around with TrueNAS, Home Assistant, and the like, and set up the above control panel
 so that I can view the status of apps and various sensors in my home. There's so much more that can be
