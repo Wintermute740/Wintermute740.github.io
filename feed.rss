@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 10 Feb 2025 14:40:13 -0500</lastBuildDate>
-<pubDate>Mon, 10 Feb 2025 14:40:13 -0500</pubDate>
+<lastBuildDate>Wed, 12 Feb 2025 14:58:47 -0500</lastBuildDate>
+<pubDate>Wed, 12 Feb 2025 14:58:47 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Home Automation
+</title><description><![CDATA[
+
+<p><img src="images/Homarr.jpg" /></p>
+
+<p>I've been playing around with TrueNAS, Home Assistant, and the like, and set up the above control panel
+so that I can view the status of apps and various sensors in my home. There's so much more that can be
+done, but this is a start. ;)</p>
+
+<p>Tags: <a href='tag_truenas.html'>truenas</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_homarr.html'>homarr</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/home-automation.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/home-automation.html</link>
+<guid>http://www.nitemarecafe.com/./home-automation.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 12 Feb 2025 14:58:45 -0500</pubDate></item>
 <item><title>
 Cloudflare
 </title><description><![CDATA[
@@ -192,19 +210,4 @@ Severance
 <guid>http://www.nitemarecafe.com/./severance.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 27 Jan 2025 10:04:31 -0500</pubDate></item>
-<item><title>
-Navbar
-</title><description><![CDATA[
-
-<p>I decided to add a navbar, because it may help someone find something they're looking for at some point, and rather than expend the braincells to do the minimal work to create the CSS from scratch, I just Googled it. And the colors used were perfect as-is. lol</p>
-
-<p>Tags: <a href='tag_navbar.html'>navbar</a>, <a href='tag_site.html'>site</a></p>
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/navbar.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/navbar.html</link>
-<guid>http://www.nitemarecafe.com/./navbar.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Tue, 21 Jan 2025 21:26:39 -0500</pubDate></item>
 </channel></rss>
