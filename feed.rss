@@ -2,9 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 12 Feb 2025 15:03:20 -0500</lastBuildDate>
-<pubDate>Wed, 12 Feb 2025 15:03:20 -0500</pubDate>
+<lastBuildDate>Fri, 14 Feb 2025 07:56:56 -0500</lastBuildDate>
+<pubDate>Fri, 14 Feb 2025 07:56:56 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Arrow and the Song</cite>
+</title><description><![CDATA[
+
+<p><cite>The Arrow and the Song</cite><br />
+&nbsp;&nbsp;&nbsp;&nbsp;by Henry Wadsworth Longfellow</p>
+<p>
+I shot an arrow into the air,<br />
+It fell to earth, I knew not where;<br />
+For, so swiftly it flew, the sight<br />
+Could not follow it in its flight.<br />
+<br />
+I breathed a song into the air,<br />
+It fell to earth, I knew not where;<br />
+For who has sight so keen and strong,<br />
+That it can follow the flight of song?<br />
+<br />
+Long, long afterward, in an oak<br />
+I found the arrow, still unbroke;<br />
+And the song, from beginning to end,<br />
+I found again in the heart of a friend.</p>
+
+<p>Tags: <a href='tag_poetry.html'>poetry</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-arrow-and-the-songcite.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-arrow-and-the-songcite.html</link>
+<guid>http://www.nitemarecafe.com/./the-arrow-and-the-songcite.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 14 Feb 2025 07:56:54 -0500</pubDate></item>
 <item><title>
 Home Automation
 </title><description><![CDATA[
@@ -191,23 +221,4 @@ probably a POE switch.</p>
 <guid>http://www.nitemarecafe.com/./network-redesign.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 31 Jan 2025 12:52:55 -0500</pubDate></item>
-<item><title>
-Severance
-</title><description><![CDATA[
-
-<p>I posted this on FB, but I plan on giving that up soon, so I am repeating it here:</p>
-
-<p>Someone in a CRT group (on FB), of all places, recently recommended the TV show <i>Severance</i>, a few weeks before season 2 started. So I binged it to be ready for season 2, and it is a wonderfully quirky show which you'll either love or hate. People go through a procedure to separate their work lives from the rest of their lives. Literally. While they're an "innie," they have no memory of the outside world. They have no knowledge of their "outie's" lives at all. To them, they're always at the office. And the opposite is true. Their "outie" has no knowledge of their "innie's" lives, and none of their memories. They go to work, and their next memory is of them leaving work. It's an interesting concept on it's own, but there's also a strange cult, and rituals. Definitely worth checking out.</p>
-
-<p>On a related note, Apple TV+ is also adapting <i>Neuromancer</i> to TV, and has completed a couple of weeks of shooting in Tokyo so far. I'm <b>really</b> looking forward to that one!</p>
-
-<p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_severance.html'>severance</a></p>
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/severance.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/severance.html</link>
-<guid>http://www.nitemarecafe.com/./severance.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Mon, 27 Jan 2025 10:04:31 -0500</pubDate></item>
 </channel></rss>
