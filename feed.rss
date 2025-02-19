@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 19 Feb 2025 14:09:06 -0500</lastBuildDate>
-<pubDate>Wed, 19 Feb 2025 14:09:06 -0500</pubDate>
+<lastBuildDate>Wed, 19 Feb 2025 14:11:01 -0500</lastBuildDate>
+<pubDate>Wed, 19 Feb 2025 14:11:01 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 VoIP.ms
 </title><description><![CDATA[
 
-<p>Well, it finally happened. I got and installed replacement batteries for my <"https://www.nitemarecafe.com/payphone.html">payphone</a>,
+<p>Well, it finally happened. I got and installed replacement batteries for my <a href="http://www.nitemarecafe.com/payphone.html">payphone</a>,
  but it still did not work completely. My OBI200 ATA finally quit working with Google Voice, as it has been end-of-support for some time
- now. I knew it was coming, but hadn't made a backup plan. So I found an inexpensive VoIP provider, <a href="http://voip.me">VoIP.ms</a>,
+ now. I knew it was coming, but hadn't made a backup plan. So I found an inexpensive VoIP provider, <a href="http://voip.ms">VoIP.ms</a>,
  and managed to get it going fairly quickly. There are walkthroughs for configuring a ton of different devices, so a quick factory-reset
  of the OBI and following a quick guide, and all is good. It was something like $0.85 for the DID, and around $0.009/minute for calls. I
  think they offer "unlimited" plans as well. They also have a basic Cisco IOS configuration for their service, so I think I may have a
