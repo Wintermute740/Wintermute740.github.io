@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 14 Feb 2025 07:56:56 -0500</lastBuildDate>
-<pubDate>Fri, 14 Feb 2025 07:56:56 -0500</pubDate>
+<lastBuildDate>Wed, 19 Feb 2025 14:09:06 -0500</lastBuildDate>
+<pubDate>Wed, 19 Feb 2025 14:09:06 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+VoIP.ms
+</title><description><![CDATA[
+
+<p>Well, it finally happened. I got and installed replacement batteries for my <"https://www.nitemarecafe.com/payphone.html">payphone</a>,
+ but it still did not work completely. My OBI200 ATA finally quit working with Google Voice, as it has been end-of-support for some time
+ now. I knew it was coming, but hadn't made a backup plan. So I found an inexpensive VoIP provider, <a href="http://voip.me">VoIP.ms</a>,
+ and managed to get it going fairly quickly. There are walkthroughs for configuring a ton of different devices, so a quick factory-reset
+ of the OBI and following a quick guide, and all is good. It was something like $0.85 for the DID, and around $0.009/minute for calls. I
+ think they offer "unlimited" plans as well. They also have a basic Cisco IOS configuration for their service, so I think I may have a
+ provider to use with my dial-up ISP project.</p>
+
+<p>Tags: <a href='tag_voip.html'>voip</a>, <a href='tag_payphone.html'>payphone</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/voipms.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/voipms.html</link>
+<guid>http://www.nitemarecafe.com/./voipms.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 19 Feb 2025 14:09:04 -0500</pubDate></item>
 <item><title>
 The Arrow and the Song</cite>
 </title><description><![CDATA[
@@ -198,27 +218,4 @@ hilarious, though. ;)</p>
 <guid>http://www.nitemarecafe.com/./one-word-review-dog-man.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 03 Feb 2025 08:55:56 -0500</pubDate></item>
-<item><title>
-Network redesign
-</title><description><![CDATA[
-
-<p>I'm starting to redesign my home newtwork. I started by getting a new router which allows
-muliple WANs, with automatic failover from one to the other, because my primary ISP frequently
-has short outages during my workday. Since them, I've also upgraded my server from an old
-gaming PC to an actual NAS, running the same services I was on the server but via docker
-containers. I still have a couple services to move over, but that is mostly done. I also
-plan to upgrade my WiFi and such. I went with TPlink, as they are low-cost but offer the same
-functionality as many of the enterprise solutions out there. The router is already TP-Link,
-and I just purchased the controller. Next payday, I'll probably pick up a couple of APs and
-probably a POE switch.</p>
-
-<p>Tags: <a href='tag_tplink.html'>tplink</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_wifi.html'>wifi</a></p>
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/network-redesign.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/network-redesign.html</link>
-<guid>http://www.nitemarecafe.com/./network-redesign.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 31 Jan 2025 12:52:55 -0500</pubDate></item>
 </channel></rss>
