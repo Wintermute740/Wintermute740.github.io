@@ -2,9 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/index.html</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 19 Feb 2025 14:11:01 -0500</lastBuildDate>
-<pubDate>Wed, 19 Feb 2025 14:11:01 -0500</pubDate>
+<lastBuildDate>Sat, 22 Feb 2025 11:58:46 -0500</lastBuildDate>
+<pubDate>Sat, 22 Feb 2025 11:58:46 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Not retro enough...
+</title><description><![CDATA[
+
+<p>Since beginning to drive this site with <a href-"https://github.com/cfenollosa/bashblog/tree/master">bashblog</a>,
+ I have allowed a minor bit of bloat to creep back in. I do drive the site with a bit of css,
+ but I have tried to keep the design fairly simply despite this so that the site renders
+ perfectly fine using any low-powered (and even text-only) web browser.</p>
+
+<p>A couple of features require the user to allow JavaScript. For a connection to <a href="https://www.nitemarecafe.com/chat.html">Discord</a>,
+ this is fine. It's a completely optional part of the site, and not in active use, so if you
+ don't have JavaScript, no biggie. You're not really missing anything. But even though they
+ are rarely used, I absolutely <b>have</b> to allow comments. Unless I go back to self-hosting
+ (which is actually feasible again via <a href-"https://www.nitemarecafe.com/cloudflare.html">Cloudflare</a>),
+ the only way to allow them was to connect to <a href="https://disqus.com/">Disqus</a>, which
+ also requires JavaScript. This is not ideal, and I may be able to hack together a small bit
+ of php to enable comments if I go back to self-hosting, but because comments rarely get used,
+ I am not sure it is worth the effort of seeing them as more than an optional part of the site.</p>
+
+<p>Also, there's the <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a> version
+ of <a href="http://www.nitemarecafe.com/feed.rss">my feed</a>, which is again optional, and
+ only enabled for the person or two who were using it to follow me. lol. The second link take
+ you to the actual feed. ;)</p>
+
+<p>So, if you're able to comment (if not, feel free to email me at wintermute @ my domain),
+ what do you think. Should I forgo the nicities and strip away the optional bload? Should
+ I leave it as-is, because it doesn't impede anyone's ability to follow the site?</p>
+
+<p>Tags: <a href='tag_web.html'>web</a>, <a href='tag_retro.html'>retro</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/not-retro-enough.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/not-retro-enough.html</link>
+<guid>http://www.nitemarecafe.com/./not-retro-enough.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 22 Feb 2025 11:58:44 -0500</pubDate></item>
 <item><title>
 VoIP.ms
 </title><description><![CDATA[
@@ -195,27 +231,4 @@ Feedburner
 <guid>http://www.nitemarecafe.com/./feedburner.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 05 Feb 2025 15:43:44 -0500</pubDate></item>
-<item><title>
-One-word review: Dog Man
-</title><description><![CDATA[
-
-<p>Dud</p>
-
-<p>Slightly longer review: I know. It's a movie meant for kids. My 10yo daughter 
-loves the books. She and my 6yo daughter seemed to enjoy it, but I was sitting 
-there feeling like I was in a 5-hour documentary on paperclips. Many kid's movies
-have plenty of humor aimed at the adults in the audience, but if this movie had 
-any of that I completely missed it. I think I laughed once as something that was 
-slightly humorous. The "Bad Guys" short they showed before the movie was 
-hilarious, though. ;)</p>
-
-<p>Tags: <a href='tag_one-word-reviews.html'>one-word-reviews</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_reviews.html'>reviews</a></p>
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/one-word-review-dog-man.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/one-word-review-dog-man.html</link>
-<guid>http://www.nitemarecafe.com/./one-word-review-dog-man.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Mon, 03 Feb 2025 08:55:56 -0500</pubDate></item>
 </channel></rss>
