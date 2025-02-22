@@ -1,0 +1,436 @@
+
+Router#sh start
+Using 7366 out of 65528 bytes
+!
+version 12.4
+service timestamps debug datetime msec localtime show-timezone
+service timestamps log datetime msec localtime show-timezone
+service password-encryption
+!
+hostname [71.5.222.25]
+!
+boot-start-marker
+boot-end-marker
+!
+card type t1 1
+logging buffered 8192 debugging
+enable secret 5 $1$mBv1$ZTes2L/oskqSG4gCgsPGO1
+enable password 7 0103140B4F040E0A2048
+!
+aaa new-model
+!
+!
+aaa authentication login default group tacacs+ line
+!
+aaa session-id common
+!
+resource policy
+!
+clock timezone EST -5
+clock summer-time EDT recurring
+network-clock-participate T1 1/0
+network-clock-participate T1 1/1
+network-clock-select 1 T1 1/0
+network-clock-select 2 T1 1/1
+ip subnet-zero
+no ip source-route
+!
+!
+ip cef
+ip name-server 65.106.1.196
+ip name-server 65.106.7.196
+!
+!
+!
+voice-card 0
+!
+!
+!
+voice service voip 
+ signaling forward none
+ fax protocol none 
+ modem passthrough nse payload-type 101 codec g711ulaw
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+controller T1 1/0
+ framing esf
+ linecode b8zs
+ channel-group 0 timeslots 1-24
+!
+controller T1 1/1
+ framing esf
+ linecode b8zs
+ channel-group 0 timeslots 1-24
+!
+class-map match-any PREC-VOIP-CLASS
+ match ip precedence 3 
+ match ip precedence 5 
+!
+!
+policy-map MARK-PORT-PREC-DATA-IN-POLICY
+  class class-default
+  set precedence 0
+policy-map IPIAD-100-PERCENT-OUT-POLICY
+  class PREC-VOIP-CLASS
+  priority percent 100
+  class class-default
+  fair-queue
+!
+!
+!
+!
+!
+interface Loopback0
+ ip address 71.5.222.25 255.255.255.255
+!
+interface FastEthernet0/0
+ ip address 65.44.132.65 255.255.255.192 secondary
+ ip address 67.90.93.193 255.255.255.240
+ duplex auto
+ speed auto
+ no cdp enable
+ service-policy input MARK-PORT-PREC-DATA-IN-POLICY
+!
+interface FastEthernet0/1
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface Serial1/0:0
+ ip address 65.46.23.250 255.255.255.252
+ ip load-sharing per-packet
+ encapsulation ppp
+ tx-ring-limit 1
+ tx-queue-limit 1
+ no cdp enable
+ max-reserved-bandwidth 100
+ service-policy output IPIAD-100-PERCENT-OUT-POLICY
+!
+interface Serial1/1:0
+ ip address 65.47.66.246 255.255.255.252
+ ip load-sharing per-packet
+ encapsulation ppp
+ tx-ring-limit 1
+ tx-queue-limit 1
+ no cdp enable
+ max-reserved-bandwidth 100
+ service-policy output IPIAD-100-PERCENT-OUT-POLICY
+!
+no ip http server
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 65.46.23.249
+ip route 0.0.0.0 0.0.0.0 65.47.66.245
+!
+!
+logging history debugging
+access-list 10 permit 216.99.224.6
+access-list 10 permit 206.83.90.107
+access-list 10 permit 65.46.23.248 0.0.0.3
+access-list 10 permit 65.46.23.244 0.0.0.3
+access-list 10 permit 66.89.55.80 0.0.0.7
+access-list 10 permit 66.239.250.208 0.0.0.7
+access-list 10 permit 205.158.160.208 0.0.0.7
+access-list 10 permit 206.173.117.0 0.0.0.255
+access-list 10 permit 206.173.138.0 0.0.0.255
+no cdp run
+!
+tacacs-server host 65.106.2.30
+tacacs-server host 65.106.2.94
+tacacs-server host 65.106.2.62
+tacacs-server host 65.106.2.126
+tacacs-server directed-request
+tacacs-server key 7 000D1D1201495C160E2F58460E0B0403175355
+!
+!
+control-plane
+!
+!
+!
+voice-port 2/0
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/1
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/2
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/3
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/4
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/5
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/6
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/7
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/8
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/9
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/10
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/11
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/12
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/13
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/14
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/15
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/16
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/17
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/18
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/19
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/20
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/21
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/22
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+voice-port 2/23
+ no supervisory disconnect lcfo
+ mwi
+ no battery-reversal
+ caller-id enable
+!
+mgcp
+mgcp request timeout max 500
+mgcp call-agent bwas2.svc.us.xo.net 2727 service-type mgcp version 1.0
+mgcp dtmf-relay voip codec all mode disabled
+mgcp dtmf-relay voaal2 codec all
+mgcp sgcp restart notify
+mgcp quarantine mode loop
+mgcp ip qos dscp cs5 media
+mgcp ip qos dscp cs3 signaling
+no mgcp package-capability trunk-package
+no mgcp package-capability hs-package
+mgcp package-capability rtp-package
+no mgcp package-capability atm-package
+no mgcp package-capability res-package
+no mgcp timer receive-rtcp
+no mgcp fax-relay sg3-to-g3
+mgcp bind control source-interface Loopback0
+mgcp bind media source-interface Loopback0
+!
+mgcp profile default
+ max1 retries 3
+ max2 retries 5
+!
+!
+!
+dial-peer voice 1 pots
+ service mgcpapp
+ port 2/0
+!
+dial-peer voice 2 pots
+ service mgcpapp
+ port 2/1
+!
+dial-peer voice 3 pots
+ service mgcpapp
+ port 2/2
+!
+dial-peer voice 4 pots
+ service mgcpapp
+ port 2/3
+!
+dial-peer voice 5 pots
+ service mgcpapp
+ port 2/4
+!
+dial-peer voice 6 pots
+ service mgcpapp
+ port 2/5
+!
+dial-peer voice 7 pots
+ service mgcpapp
+ port 2/6
+!
+dial-peer voice 8 pots
+ service mgcpapp
+ port 2/7
+!
+dial-peer voice 9 pots
+ service mgcpapp
+ port 2/8
+!
+dial-peer voice 10 pots
+ service mgcpapp
+ port 2/9
+!
+dial-peer voice 11 pots
+ service mgcpapp
+ port 2/10
+!
+dial-peer voice 12 pots
+ service mgcpapp
+ port 2/11
+!
+dial-peer voice 13 pots
+ service mgcpapp
+ port 2/12
+!
+dial-peer voice 14 pots
+ service mgcpapp
+ port 2/13
+!
+dial-peer voice 15 pots
+ service mgcpapp
+ port 2/14
+!
+dial-peer voice 16 pots
+ service mgcpapp
+ port 2/15
+!
+dial-peer voice 17 pots
+ service mgcpapp
+ port 2/16
+!
+dial-peer voice 18 pots
+ service mgcpapp
+ port 2/17
+!
+dial-peer voice 19 pots
+ service mgcpapp
+ port 2/18
+!
+dial-peer voice 20 pots
+ service mgcpapp
+ port 2/19
+!
+dial-peer voice 21 pots
+ port 2/20
+!
+dial-peer voice 22 pots
+ service mgcpapp
+ port 2/21
+!
+dial-peer voice 23 pots
+ service mgcpapp
+ port 2/22
+!
+dial-peer voice 24 pots
+ service mgcpapp
+ port 2/23
+!
+!
+line con 0
+ password 7 140E001E0401382E
+line aux 0
+line vty 0 4
+ access-class 10 in
+ password 7 0512141A29495C0C
+!
+ntp clock-period 17179913
+ntp server 206.173.119.88
+end
+
+Router#
