@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 24 Feb 2025 11:52:54 -0500</lastBuildDate>
-<pubDate>Mon, 24 Feb 2025 11:52:54 -0500</pubDate>
+<lastBuildDate>Mon, 24 Feb 2025 12:16:19 -0500</lastBuildDate>
+<pubDate>Mon, 24 Feb 2025 12:16:19 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Not retro enough...
 </title><description><![CDATA[
 
-<p>Since beginning to drive this site with <a href-"https://github.com/cfenollosa/bashblog/tree/master">bashblog</a>,
+<p>Since beginning to drive this site with <a href="https://github.com/cfenollosa/bashblog/tree/master">bashblog</a>,
  I have allowed a minor bit of bloat to creep back in. I do drive the site with a bit of css,
  but I have tried to keep the design fairly simply despite this so that the site renders
  perfectly fine using any low-powered (and even text-only) web browser.</p>
 
-<p>A couple of features require the user to allow JavaScript. For a connection to <a href="https://www.nitemarecafe.com/chat.html">Discord</a>,
+<p>A couple of features require the user to allow JavaScript. For a connection to <a href="/chat.html">Discord</a>,
  this is fine. It's a completely optional part of the site, and not in active use, so if you
  don't have JavaScript, no biggie. You're not really missing anything. But even though they
  are rarely used, I absolutely <b>have</b> to allow comments. Unless I go back to self-hosting
- (which is actually feasible again via <a href-"https://www.nitemarecafe.com/cloudflare.html">Cloudflare</a>),
+ (which is actually feasible again via <a href="/cloudflare.html">Cloudflare</a>),
  the only way to allow them was to connect to <a href="https://disqus.com/">Disqus</a>, which
  also requires JavaScript. This is not ideal, and I may be able to hack together a small bit
  of php to enable comments if I go back to self-hosting, but because comments rarely get used,
  I am not sure it is worth the effort of seeing them as more than an optional part of the site.</p>
 
 <p>Also, there's the <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a> version
- of <a href="http://www.nitemarecafe.com/feed.rss">my feed</a>, which is again optional, and
+ of <a href="/feed.rss">my feed</a>, which is again optional, and
  only enabled for the person or two who were using it to follow me. lol. The second link takes
  you to the actual feed. ;)</p>
 
