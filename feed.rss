@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 24 Feb 2025 12:16:19 -0500</lastBuildDate>
-<pubDate>Mon, 24 Feb 2025 12:16:19 -0500</pubDate>
+<lastBuildDate>Mon, 24 Feb 2025 12:23:37 -0500</lastBuildDate>
+<pubDate>Mon, 24 Feb 2025 12:23:37 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Not retro enough...
@@ -54,7 +54,7 @@ Not retro enough...
 VoIP.ms
 </title><description><![CDATA[
 
-<p>Well, it finally happened. I got and installed replacement batteries for my <a href="http://www.nitemarecafe.com/payphone.html">payphone</a>,
+<p>Well, it finally happened. I got and installed replacement batteries for my <a href="/payphone.html">payphone</a>,
  but it still did not work completely. My OBI200 ATA finally quit working with Google Voice, as it has been end-of-support for some time
  now. I knew it was coming, but hadn't made a backup plan. So I found an inexpensive VoIP provider, <a href="http://voip.ms">VoIP.ms</a>,
  and managed to get it going fairly quickly. There are walkthroughs for configuring a ton of different devices, so a quick factory-reset
@@ -275,7 +275,7 @@ Gotta Keep It Separated
 No further news of my father's passing
 </title><description><![CDATA[
 
-<p>A few weeks ago, I posted about <a href="https://www.nitemarecafe.com/on-the-passing-of-my-father.html">my father's passing on January 14</a>. Since then, I
+<p>A few weeks ago, I posted about <a href="/on-the-passing-of-my-father.html">my father's passing on January 14</a>. Since then, I
  have heard absolutely nothing. I find it peculiar that I still cannot find his 
  obituary or notice of his funeral or anything else about it online. I expected 
  to at least see a post on Facebook by the half-sister who notified me, but I 
@@ -302,7 +302,7 @@ No further news of my father's passing
 Feedburner
 </title><description><![CDATA[
 
-<p>I just realized that I failed to update my <a href="https://www.nitemarecafe.com/feed.rss">rss feed</a> to use <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a>, so have rectified that. The original one provided by the software still works, but I just realized that my blog's two followers probably stopped getting updates a long time ago. lol</p>
+<p>I just realized that I failed to update my <a href="/feed.rss">rss feed</a> to use <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a>, so have rectified that. The original one provided by the software still works, but I just realized that my blog's two followers probably stopped getting updates a long time ago. lol</p>
 
 <p>Tags: <a href='tag_blog.html'>blog</a>, <a href='tag_rss.html'>rss</a>, <a href='tag_feed.html'>feed</a>, <a href='tag_feedburner.html'>feedburner</a></p>
 
