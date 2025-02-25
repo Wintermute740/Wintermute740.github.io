@@ -2,9 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 24 Feb 2025 20:12:00 -0500</lastBuildDate>
-<pubDate>Mon, 24 Feb 2025 20:12:00 -0500</pubDate>
+<lastBuildDate>Tue, 25 Feb 2025 15:01:03 -0500</lastBuildDate>
+<pubDate>Tue, 25 Feb 2025 15:01:03 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Song Remains the Same
+</title><description><![CDATA[
+
+<p><img src="images/series10.jpg" width="25%" align="left"/>I wrote this on FB the other day,
+ but thought I should share it here as well:<br />
+ <br />
+It's funny how I used to have a near-photographic memory, but now I barely remember my childhood,
+ and even my teen years, at all, other than as vague shadows. But sometimes, something comes 
+ alongs and opens the floodgates. Usually music. :) And I was just watching Led Zeppelin's 
+ <i>The Song Remains the Same</i> for the first time since I was 16, and I was suddenly transported
+ to a house on Clayton Drive in Lancaster. I was friends with two brothers, and their house was 
+ practically a second home for the lot of us who hung out together. We watched that movie so many 
+ times... That, and <i>Headbanger's Ball</i> on MTV, and a bunch of of AC/DC concerts on VHS. Brian 
+ was the first of us to own a guitar... A Bently Series 10, if I remember correctly... I'm 99% 
+ certain one identical to the one on this post... And I "sang" while he played. Of course, being 
+ metal, and having to project my voice over his amp, it was more screaming than singing, but still...
+ lol... Even when the rest of our friends were off doing other things, I was either working out with 
+ Greg or jamming with Brian.<br />
+<br />
+They were from Cincinnati, and a bit after I moved to Georgia in high school, they moved away from 
+ Lancaster. I believe back to Cincinnati. But after that, I lost contact with those two. Two of the 
+ other guys in the band I jammed with up until the pandemic were part of that group of friends, and
+ they had lost contact as well. The entire group of us were great friends, but Brian was my best 
+ friend for a couple of years, up until I moved. I've tried to find the two of them online, but I 
+ honestly doubt either ever developed much of an online presence...
+</p>
+
+<p>Tags: <a href='tag_friends.html'>friends</a>, <a href='tag_memories.html'>memories</a>, <a href='tag_guitars.html'>guitars</a>, <a href='tag_music.html'>music</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-song-remains-the-same.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-song-remains-the-same.html</link>
+<guid>http://www.nitemarecafe.com/./the-song-remains-the-same.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Tue, 25 Feb 2025 15:00:58 -0500</pubDate></item>
 <item><title>
 Not retro enough...
 </title><description><![CDATA[
@@ -352,33 +388,4 @@ No further news of my father's passing
 <guid>http://www.nitemarecafe.com/./no-further-news-of-my-fathers-passing.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 05 Feb 2025 16:54:15 -0500</pubDate></item>
-<item><title>
-Feedburner
-</title><description><![CDATA[
-
-<p>I just realized that I failed to update my <a href="/feed.rss">rss feed</a> to use <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a>, so have rectified that. The original one provided by the software still works, but I just realized that my blog's two followers probably stopped getting updates a long time ago. lol</p>
-
-<p>Tags: <a href='tag_blog.html'>blog</a>, <a href='tag_rss.html'>rss</a>, <a href='tag_feed.html'>feed</a>, <a href='tag_feedburner.html'>feedburner</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/feedburner.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/feedburner.html</link>
-<guid>http://www.nitemarecafe.com/./feedburner.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 05 Feb 2025 15:43:44 -0500</pubDate></item>
 </channel></rss>
