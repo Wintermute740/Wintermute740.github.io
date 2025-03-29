@@ -2,9 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 28 Mar 2025 21:39:25 -0400</lastBuildDate>
-<pubDate>Fri, 28 Mar 2025 21:39:25 -0400</pubDate>
+<lastBuildDate>Sat, 29 Mar 2025 12:05:14 -0400</lastBuildDate>
+<pubDate>Sat, 29 Mar 2025 12:05:14 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Airheads
+</title><description><![CDATA[
+
+<p>This one is a bit newer than <a href="/the-blues-brothers.html">The Blues Brothers</a>,
+ and I'm not a huge fan of Adam Sandler, but <a href="https://www.imdb.com/title/tt0109068/">Airheads</a>
+ was another great music comedy that I just finished a rewatch of. Definitely going in my rotation for
+ fairly regular rewatch.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_comedy.html'>comedy</a>, <a href='tag_airheads.html'>airheads</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/airheads.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/airheads.html</link>
+<guid>http://www.nitemarecafe.com/./airheads.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 29 Mar 2025 12:05:12 -0400</pubDate></item>
 <item><title>
 The Blues Brothers
 </title><description><![CDATA[
@@ -332,52 +349,4 @@ Screaming into the void
 <guid>http://www.nitemarecafe.com/./screaming-into-the-void.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 07 Feb 2025 15:00:26 -0500</pubDate></item>
-<item><title>
-Payphone
-</title><description><![CDATA[
-
-<p>Some time ago, I purchaced a refurbished payphone online. I bought it
- unprogrammed, as I wasn't sure how I wanted to set it up, but had some issues
- getting it to keep some of my settings. I had plugged the internal battery in,
- and had followed all the instructions. Yet my changes to change collection
- never seemed to last. Well, recently I also discovered that the phone wasn't
- working at all. I opened the phone and removed the battery and tested it, and
- it was dead. So I thought I'd take the board out and see if I could bypass it
- coin collection completely, and I discovered a second battery on the back of
- the board. So I did a little more digging, and discovered the first battery
- apparently provided power to the relay, and the one I discovered powers the
- chip which saves the setting. I tested it, and the voltage measured a bit low
- as well. Replacement batteries ordered, so I should finally be able to set the
- phone the way I'd like it set.</p>
-
-<p>In the process, I also discovered a blog post about <a href="https://philtel.org/2022/06/27/fixing-a-protel-pt1.html">fixing a Protel payphone</a>.
- It appears to be more-or-less the same phone as I have, and has a lot of
- interesting information that I hadn't run across before. Worth checking out if
- you're interested in such things at all.</p>
-
-<p>Tags: <a href='tag_protel.html'>protel</a>, <a href='tag_payphone.html'>payphone</a>, <a href='tag_retro.html'>retro</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/payphone.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/payphone.html</link>
-<guid>http://www.nitemarecafe.com/./payphone.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 07 Feb 2025 09:39:57 -0500</pubDate></item>
 </channel></rss>
