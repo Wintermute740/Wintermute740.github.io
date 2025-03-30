@@ -2,9 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 29 Mar 2025 12:05:14 -0400</lastBuildDate>
-<pubDate>Sat, 29 Mar 2025 12:05:14 -0400</pubDate>
+<lastBuildDate>Sun, 30 Mar 2025 17:27:22 -0400</lastBuildDate>
+<pubDate>Sun, 30 Mar 2025 17:27:22 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Matrix
+</title><description><![CDATA[
+
+<p>Continuing on my binge of older movies, I just finished the first of <a href="https://www.imdb.com/title/tt0133093/">The Matrix</a>
+ trilogy, and I am suprised at how well it holds up.</p>
+
+<p>I remember when this one first came out. My wife an I watched a *lot* of movies
+ back then. We had gone to a packed cinema on a Friday or Saturday evening and took
+ her brother and parents with us. The showing was nearly sold out, and we wound up
+ with crappy seats (way too close and way too off from the center of the screen) for
+ a movie none of us had actually heard of. And then the lights went down and the
+ movie started, and all the complaining about being too crowded and crappy seats
+ suddenly stopped.</p>
+
+<p>As I mentioned, the original held up extremely well. I did not like the second
+ film in the series, and always felt like <a href="https://www.imdb.com/title/tt0242653/">
+ Revolutions</a> would have been much better had it never happened, so I don't know
+ whether to skip <a href="https://www.imdb.com/title/tt0234215/">Reloaded</a> and go
+ straight to <a href="https://www.imdb.com/title/tt0328832/">The Animatrix</a> or not.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-matrix.html</link>
+<guid>http://www.nitemarecafe.com/./the-matrix.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 30 Mar 2025 17:27:20 -0400</pubDate></item>
 <item><title>
 Airheads
 </title><description><![CDATA[
@@ -315,38 +344,4 @@ quick how-to.</p>
 <guid>http://www.nitemarecafe.com/./cloudflare.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 08 Feb 2025 23:25:21 -0500</pubDate></item>
-<item><title>
-Screaming into the void
-</title><description><![CDATA[
-
-<p>For the two people following here, you may have noticed that I've been 
- screaming into the void a bit more often that I was. I have been turning here
- instead of Facebook a bit more whenever I have something to say. It seems to
- help me stay off of FB a bit more. ;)</p>
-
-<p>Tags: <a href='tag_blogging.html'>blogging</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/screaming-into-the-void.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/screaming-into-the-void.html</link>
-<guid>http://www.nitemarecafe.com/./screaming-into-the-void.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 07 Feb 2025 15:00:26 -0500</pubDate></item>
 </channel></rss>
