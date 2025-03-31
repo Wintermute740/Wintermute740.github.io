@@ -2,9 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 30 Mar 2025 17:46:39 -0400</lastBuildDate>
-<pubDate>Sun, 30 Mar 2025 17:46:39 -0400</pubDate>
+<lastBuildDate>Mon, 31 Mar 2025 10:14:00 -0400</lastBuildDate>
+<pubDate>Mon, 31 Mar 2025 10:14:00 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Matrix: Reloaded
+</title><description><![CDATA[
+
+<p>I decided to not skip anything in my rewatch of <a href="/the-matrix.html">The
+ Matrix</a>, and am watching them in release order, so that meants I did wind up
+ watching <a href="https://www.imdb.com/title/tt0234215/">Reloaded</a> last night.</p>
+
+<p>I think this is the first time I've rewatched it since it came out. As previously
+ mentioned, I had originally thought that the series was stronger without it, and
+ that it someone ruined <a href="https://www.imdb.com/title/tt0242653/">Revolutions</a>.
+ While still not my favorite movie, I didn't find it nearly as bad as I did way
+ back when I originally watched it. There are a few scenes which probably should
+ have never made it past the cutting room, but overall it was better than I remembered.</p>
+
+<p>Because I am going in release order, <a href="https://www.imdb.com/title/tt0328832/">The
+ Animatrix</a> is next.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix-reloaded.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-matrix-reloaded.html</link>
+<guid>http://www.nitemarecafe.com/./the-matrix-reloaded.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Mon, 31 Mar 2025 10:12:11 -0400</pubDate></item>
 <item><title>
 The Matrix
 </title><description><![CDATA[
@@ -307,41 +333,4 @@ done, but this is a start. ;)</p>
 <guid>http://www.nitemarecafe.com/./home-automation.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 12 Feb 2025 14:58:45 -0500</pubDate></item>
-<item><title>
-Cloudflare
-</title><description><![CDATA[
-
-<p>I may, at some point, move this site back to self-hosting, as I have managed
-to get a reverse-proxy setup so that <a href="http://lg15.cassieiswatching.com">lg15.cassieiswatching.com</a>  works whichever
-upstream ISP is working at the moment. This allows me to self-host even if
-carrier-grade NAT is being used. I suggest watching the embedded video for a
-quick how-to.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5fAcE70xbQ?si=JshI4y9xJnkoWuBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p>Tags: <a href='tag_hosting.html'>hosting</a>, <a href='tag_nat.html'>nat</a>, <a href='tag_cloudflare.html'>cloudflare</a>, <a href='tag_cloudflared.html'>cloudflared</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/cloudflare.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/cloudflare.html</link>
-<guid>http://www.nitemarecafe.com/./cloudflare.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 08 Feb 2025 23:25:21 -0500</pubDate></item>
 </channel></rss>
