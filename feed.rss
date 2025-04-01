@@ -2,9 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 31 Mar 2025 10:14:00 -0400</lastBuildDate>
-<pubDate>Mon, 31 Mar 2025 10:14:00 -0400</pubDate>
+<lastBuildDate>Tue, 01 Apr 2025 09:08:05 -0400</lastBuildDate>
+<pubDate>Tue, 01 Apr 2025 09:08:05 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Animatrix
+</title><description><![CDATA[
+
+<p>The rewatch continues with <a href="https://www.imdb.com/title/tt0328832/">The 
+ Animatrix</a>. It's harder to judge this one, as it's the only animated one in the
+ series, and is also a bunch of different shorts taking place at vaious different
+ times in the chonology. This is why I am doing these in release order instead of
+ chronologically.</p>
+
+<p>Some of the shorts are prequels, some take place between the movies, and some
+ have no specific timeframe and could take place at any time before, during, or
+ after the original trilogy. They are considered canon, though, so I included them
+ in the rewatch.</p>
+
+<p>I  amd not a huge anime fan, but I remember enjoying these when they came out,
+ and I still enjoyed them on this rewatch. The styles they're done in varies, and
+ I quite enjoyed the different ways they were animated. The range from more traditional
+ anime to near-realistic, almost uncanny valley, type of animation. And the stories
+ really flesh out the universe a bit, which gives the entire series much more depth.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_the-matrix.html'>the-matrix</a>, <a href='tag_matrix.html'>matrix</a>, <a href='tag_animatrix.html'>animatrix</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-animatrix.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-animatrix.html</link>
+<guid>http://www.nitemarecafe.com/./the-animatrix.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Tue, 01 Apr 2025 09:08:01 -0400</pubDate></item>
 <item><title>
 The Matrix: Reloaded
 </title><description><![CDATA[
@@ -298,39 +327,4 @@ I found again in the heart of a friend.</p>
 <guid>http://www.nitemarecafe.com/./the-arrow-and-the-song.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 14 Feb 2025 07:56:54 -0500</pubDate></item>
-<item><title>
-Home Automation
-</title><description><![CDATA[
-
-<p><img src="images/Homarr.jpg" width="100%" /></p>
-
-<p>I've been playing around with TrueNAS, Home Assistant, and the like, and set up the above control panel
-so that I can view the status of apps and various sensors in my home. There's so much more that can be
-done, but this is a start. ;)</p>
-
-<p>Tags: <a href='tag_truenas.html'>truenas</a>, <a href='tag_networking.html'>networking</a>, <a href='tag_homarr.html'>homarr</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/home-automation.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/home-automation.html</link>
-<guid>http://www.nitemarecafe.com/./home-automation.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 12 Feb 2025 14:58:45 -0500</pubDate></item>
 </channel></rss>
