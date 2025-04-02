@@ -2,9 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 01 Apr 2025 09:08:05 -0400</lastBuildDate>
-<pubDate>Tue, 01 Apr 2025 09:08:05 -0400</pubDate>
+<lastBuildDate>Wed, 02 Apr 2025 08:14:29 -0400</lastBuildDate>
+<pubDate>Wed, 02 Apr 2025 08:14:29 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Matrix: Revolutions
+</title><description><![CDATA[
+
+<p>We finally made it to <a href="https://www.imdb.com/title/tt0242653/">Revolutions</a>,
+ that unsatistfying end to the original Matrix trilogy. I no longer feel like
+ <a href="the-matrix-reloaded.html">Reloaded</a> ruined it, and it's not a <b>bad</b>
+ movie. It just wasn't great. I'm glad I finally rewatched it.</p>
+
+<p>Overall, the entire trilogy holds up fairly well. The original was mind-blowing
+ when it came out and is still a great film. The other two are simultaniously
+ better and worse than I remembered them. The second one was too long and the ending
+ just wasn't very satisfying, which is probably why they eventually made the new one,
+ <a href="https://www.imdb.com/title/tt10838180/">The Matrix: Cash Grab</a>, errr... 
+ <b>Resurrections</b>. I'll be wrapping up with that next, even though it took me
+ several attempts to make it through it the first time.</p>
+ 
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix-revolutions.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-matrix-revolutions.html</link>
+<guid>http://www.nitemarecafe.com/./the-matrix-revolutions.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 02 Apr 2025 08:14:27 -0400</pubDate></item>
 <item><title>
 The Animatrix
 </title><description><![CDATA[
@@ -280,51 +305,4 @@ VoIP.ms
 <guid>http://www.nitemarecafe.com/./voipms.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Wed, 19 Feb 2025 14:09:04 -0500</pubDate></item>
-<item><title>
-The Arrow and the Song
-</title><description><![CDATA[
-
-<p><cite>The Arrow and the Song</cite><br />
-&nbsp;&nbsp;&nbsp;&nbsp;by Henry Wadsworth Longfellow</p>
-<p>
-I shot an arrow into the air,<br />
-It fell to earth, I knew not where;<br />
-For, so swiftly it flew, the sight<br />
-Could not follow it in its flight.<br />
-<br />
-I breathed a song into the air,<br />
-It fell to earth, I knew not where;<br />
-For who has sight so keen and strong,<br />
-That it can follow the flight of song?<br />
-<br />
-Long, long afterward, in an oak<br />
-I found the arrow, still unbroke;<br />
-And the song, from beginning to end,<br />
-I found again in the heart of a friend.</p>
-
-<p>Tags: <a href='tag_poetry.html'>poetry</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/the-arrow-and-the-song.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/the-arrow-and-the-song.html</link>
-<guid>http://www.nitemarecafe.com/./the-arrow-and-the-song.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 14 Feb 2025 07:56:54 -0500</pubDate></item>
 </channel></rss>
