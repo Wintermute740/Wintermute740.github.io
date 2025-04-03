@@ -2,9 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 02 Apr 2025 08:14:29 -0400</lastBuildDate>
-<pubDate>Wed, 02 Apr 2025 08:14:29 -0400</pubDate>
+<lastBuildDate>Thu, 03 Apr 2025 08:33:28 -0400</lastBuildDate>
+<pubDate>Thu, 03 Apr 2025 08:33:28 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Matrix: Ressurections
+</title><description><![CDATA[
+
+<p>Wrapped my rewatch with <a href="https://www.imdb.com/title/tt10838180/">The 
+ Matrix: Ressurections</a> last night, and I barely made it through it. I kept
+ finding myself distracted and reaching for my phone to play a round of Suduku
+ or something to keep me entertained.</p>
+
+<p>It wasn't bad, per-se, but I think it brings the problems with all the sequels
+ to the foreground. They all focused way too much on the love story between Neo
+ and Trinity, and also went all-in on the action. While I liked the concept, which 
+ went back to bending reality and  asking what was real and what wasn't, but instead
+ of being subtle about it, it kept hitting us over the head with it. It wasn't
+ taking us on a journey, it was preaching at us. And that was even worse than
+ focusing on the wrong things. ;)</p>
+
+<p>There is another sequel in the works. I hope they drop the love story. I hope
+ they use action well, like in the first one, and don't rely on it too much like
+ they did with all the sequels. I hope they find a good concept and take us on a
+ journey instead of bludgeoning us with it. Time will tell.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix-ressurections.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/the-matrix-ressurections.html</link>
+<guid>http://www.nitemarecafe.com/./the-matrix-ressurections.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 03 Apr 2025 08:33:26 -0400</pubDate></item>
 <item><title>
 The Matrix: Revolutions
 </title><description><![CDATA[
@@ -268,41 +298,4 @@ Not retro enough...
 <guid>http://www.nitemarecafe.com/./not-retro-enough.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 22 Feb 2025 11:58:44 -0500</pubDate></item>
-<item><title>
-VoIP.ms
-</title><description><![CDATA[
-
-<p>Well, it finally happened. I got and installed replacement batteries for my <a href="/payphone.html">payphone</a>,
- but it still did not work completely. My OBI200 ATA finally quit working with Google Voice, as it has been end-of-support for some time
- now. I knew it was coming, but hadn't made a backup plan. So I found an inexpensive VoIP provider, <a href="http://voip.ms">VoIP.ms</a>,
- and managed to get it going fairly quickly. There are walkthroughs for configuring a ton of different devices, so a quick factory-reset
- of the OBI and following a quick guide, and all is good. It was something like $0.85 for the DID, and around $0.009/minute for calls. I
- think they offer "unlimited" plans as well. They also have a basic Cisco IOS configuration for their service, so I think I may have a
- provider to use with my dial-up ISP project.</p>
-
-<p>Tags: <a href='tag_voip.html'>voip</a>, <a href='tag_payphone.html'>payphone</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/voipms.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/voipms.html</link>
-<guid>http://www.nitemarecafe.com/./voipms.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 19 Feb 2025 14:09:04 -0500</pubDate></item>
 </channel></rss>
