@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 03 Apr 2025 08:33:28 -0400</lastBuildDate>
-<pubDate>Thu, 03 Apr 2025 08:33:28 -0400</pubDate>
+<lastBuildDate>Fri, 04 Apr 2025 07:59:29 -0400</lastBuildDate>
+<pubDate>Fri, 04 Apr 2025 07:59:29 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Real Genius
+</title><description><![CDATA[
+
+<p>Earlier this week, we lost another great actor in Val Kilmer. Most people will
+ always think of Iceman from Top Gun when they think of him, or Batman, but to me
+ he will always be Chris Knight from <a href="https://www.imdb.com/title/tt0089886/">
+ Real Genius</a>. So to honor him in my own way, I continued my rewatch of my old
+ favorites with this gem.</p>
+
+<p>Even though laser technotogy has come a long way since the mid-80's, this movie
+ played just as well today as it did 40 years ago. I'm guessing people not interested
+ in such technology probably now about the same amount about lasers now as they did
+ back then, and because the laser was just a prop for the character-driven story, the
+ movie aged well.</p>
+
+<p>If you've never seen it, you owe it to yourself to check it out. It's one of my
+ favorite movies of all time, and some of Val Kilmer's best work.</p>
+
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_real-genius.html'>real-genius</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/real-genius.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/real-genius.html</link>
+<guid>http://www.nitemarecafe.com/./real-genius.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 04 Apr 2025 07:59:27 -0400</pubDate></item>
 <item><title>
 The Matrix: Ressurections
 </title><description><![CDATA[
@@ -245,57 +273,4 @@ They were from Cincinnati, and a bit after I moved to Georgia in high school, th
 <guid>http://www.nitemarecafe.com/./the-song-remains-the-same.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Tue, 25 Feb 2025 15:00:58 -0500</pubDate></item>
-<item><title>
-Not retro enough...
-</title><description><![CDATA[
-
-<p>Since beginning to drive this site with <a href="https://github.com/cfenollosa/bashblog/tree/master">bashblog</a>,
- I have allowed a minor bit of bloat to creep back in. I do drive the site with a bit of css,
- but I have tried to keep the design fairly simply despite this so that the site renders
- perfectly fine using any low-powered (and even text-only) web browser.</p>
-
-<p>A couple of features require the user to allow JavaScript. For a connection to <a href="/chat.html">Discord</a>,
- this is fine. It's a completely optional part of the site, and not in active use, so if you
- don't have JavaScript, no biggie. You're not really missing anything. But even though they
- are rarely used, I absolutely <b>have</b> to allow comments. Unless I go back to self-hosting
- (which is actually feasible again via <a href="/cloudflare.html">Cloudflare</a>),
- the only way to allow them was to connect to <a href="https://disqus.com/">Disqus</a>, which
- also requires JavaScript. This is not ideal, and I may be able to hack together a small bit
- of php to enable comments if I go back to self-hosting, but because comments rarely get used,
- I am not sure it is worth the effort of seeing them as more than an optional part of the site.</p>
-
-<p>Also, there's the <a href="https://feeds.feedburner.com/wintermutesblog">Feedburner</a> version
- of <a href="/feed.rss">my feed</a>, which is again optional, and
- only enabled for the person or two who were using it to follow me. lol. The second link takes
- you to the actual feed. ;)</p>
-
-<p>So, if you're able to comment (if not, feel free to email me at wintermute @ my domain),
- what do you think? Should I forgo the nicities and strip away the optional bloat? Should
- I leave it as-is, because it doesn't impede anyone's ability to follow the site?</p>
-
-<p>As an aside, this post was partly inspired by one about <a href="https://neustadt.fr/essays/the-small-web/">rediscovering the small web</a>.
- I strongly suggest you go read that.</a>
-
-<p>Tags: <a href='tag_web.html'>web</a>, <a href='tag_retro.html'>retro</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/not-retro-enough.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/not-retro-enough.html</link>
-<guid>http://www.nitemarecafe.com/./not-retro-enough.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 22 Feb 2025 11:58:44 -0500</pubDate></item>
 </channel></rss>
