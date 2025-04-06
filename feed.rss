@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 06 Apr 2025 10:21:32 -0400</lastBuildDate>
-<pubDate>Sun, 06 Apr 2025 10:21:32 -0400</pubDate>
+<lastBuildDate>Sun, 06 Apr 2025 10:31:25 -0400</lastBuildDate>
+<pubDate>Sun, 06 Apr 2025 10:31:25 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Compaq LTE Elite 4/75CX
 </title><description><![CDATA[
 
-<p><img src="images/compaq_elite" width="100%" />"</p>
+<p><img src="images/compaq_elite.jpg" width="100%" alt="Compaq LTE Elite" /></p>
 
 <p>This is the first repair from the group of machines I received from a friend.
  It is a Compaq 486DX4/75 laptop with a 9.5" screen, 16MB of RAM, and a 340MB hard
