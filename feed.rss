@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 12 Apr 2025 11:21:01 -0400</lastBuildDate>
-<pubDate>Sat, 12 Apr 2025 11:21:01 -0400</pubDate>
+<lastBuildDate>Sat, 12 Apr 2025 11:25:37 -0400</lastBuildDate>
+<pubDate>Sat, 12 Apr 2025 11:25:37 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Revenge of the Nerds
@@ -43,8 +43,7 @@ Revenge of the Nerds
  past the problems and at the underlying message of acceptance and inclusion,
  which I think is the real message of the film.</p>
 
- <p>Tags: movies, comedy, revenge-of-the-nerds</p>
-
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_comedy.html'>comedy</a>, <a href='tag_revenge-of-the-nerds.html'>revenge-of-the-nerds</a></p>
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/revenge-of-the-nerds.html#disqus_thread">Comments?</a> &nbsp;
 </p>
