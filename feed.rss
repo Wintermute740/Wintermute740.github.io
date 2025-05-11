@@ -2,9 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 12 Apr 2025 11:25:37 -0400</lastBuildDate>
-<pubDate>Sat, 12 Apr 2025 11:25:37 -0400</pubDate>
+<lastBuildDate>Sun, 11 May 2025 13:30:48 -0400</lastBuildDate>
+<pubDate>Sun, 11 May 2025 13:30:48 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Battlestar Galactica
+</title><description><![CDATA[
+
+
+<p>
+Just finished my first rewatch of the original Battlestar Galactica series from 1978 for the first time in forever. Galactica 1980 was horrible aside from "The Return of Starbuck," so I skipped that series and just stuck to the single season of the original.
+</p>
+<p>
+I'll address the uneven acting first to get it out of the way. If it seems like the actors were reading their lines for the very first time in some of the episodes, it's because they were. The scripts were sometimes completed just before shooting, so the actors had to read them for the first time off of cue cards while shooting the scene. As a kid, I never caught on to this. As an adult, it's glaringly obvious.
+</p>
+<p>
+Some of the episodes were a bit silly, also for the aforementioned reason. This was meant to be a three-episode miniseries but suddenly became a weekly series, without an adequate budget or time to prepare the scripts. The episode which weren't just plain silly were allegories, many of them for the Mormon church. The "Ships of Light" episode were always my least favorite, even as a kid. The "Eastern Alliance" was a bit on-the-nose with fairly recent Earth history, too. I started laughing during my rewatch when one of the Easter Alliance members spoke with a poorly-faked German accent.
+</p>
+<p>
+I realize after this most recent re-watch that my fondness for the series is mostly nostalgia, because it reminds me of my childhood. I'll always have a fondness for it, even though it was never great to begin with.
+</p>
+
+<p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_battlestar-galactica.html'>battlestar-galactica</a>, <a href='tag_nostalgia.html'>nostalgia</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/battlestar-galactica.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/battlestar-galactica.html</link>
+<guid>http://www.nitemarecafe.com/./battlestar-galactica.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 11 May 2025 13:30:46 -0400</pubDate></item>
 <item><title>
 Revenge of the Nerds
 </title><description><![CDATA[
@@ -302,33 +328,4 @@ Airheads
 <guid>http://www.nitemarecafe.com/./airheads.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 29 Mar 2025 12:05:12 -0400</pubDate></item>
-<item><title>
-The Blues Brothers
-</title><description><![CDATA[
-
-<p>Many times, when I watch a movie that I haven't seen in a long time, it triggers
- a flood of memories. Not so with this one, but I enjoyed every minute of the extended
- cut of <a href="https://www.imdb.com/title/tt0080455/">The Blues Brothers</a>. This
- is such an amazing movie, even 45-ish years after I first saw it, that I didn't even
- notice that is was 2 1/2 hours.</p>
-
-<p>John Belushi was such an amazing actor who left us way too soon, but this movie is
- filled with amazing talent, from the comedic actors to the amazing musicians who lend
- their talent to the movie. There are also a ton of great cameos. Some of them are
- pretty obvious, but some of them not so much. ;) I won't spoil them for you if you
- have never noticed some of the actors and musicians (and others) who show up in a
- scene here or there, but even many of the &quot;extras&quot; were, or later became,
- famous in their own right. ;)</p>
-
-<p>If it's been awhile since you've seen it, or especially if you've never seen it
- before, you owe it to yourself to watch it as soon as you have the time.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_classics.html'>classics</a>, <a href='tag_the-blues-brothers.html'>the-blues-brothers</a>, <a href='tag_comedy.html'>comedy</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/the-blues-brothers.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/the-blues-brothers.html</link>
-<guid>http://www.nitemarecafe.com/./the-blues-brothers.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 28 Mar 2025 21:37:16 -0400</pubDate></item>
 </channel></rss>
