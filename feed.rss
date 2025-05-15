@@ -2,9 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 11 May 2025 13:30:48 -0400</lastBuildDate>
-<pubDate>Sun, 11 May 2025 13:30:48 -0400</pubDate>
+<lastBuildDate>Thu, 15 May 2025 13:35:33 -0400</lastBuildDate>
+<pubDate>Thu, 15 May 2025 13:35:33 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Dream a Little Dream
+</title><description><![CDATA[
+
+<p>Yet another movie rewatch? Well, it's what I've been doing a lot lately, so sure. Why not? ;)</p>
+
+<p>This time, it was <a href="https://www.imdb.com/title/tt0097236/">Dream a Little Dream</a>. I remember
+seeing this one a few times shortly after it came out, and while I enjoyed it I found it a bit on the weird
+side. It wasn't the type of movie I particularly liked back then, but something drew me to it.</p>
+
+<p>This is the first time I've rewatched it in nearly 40 years, and it hits a lot differently when you're
+older instead of recently graduated from high school. I actually like it even more now that I can relate to
+Coleman as much as I related to Bobby back when it came out.</p>
+
+<p>If you didn't like it when you were young, watch it again with an open mind. You may find you like it now.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_dream-a-little-dream.html'>dream-a-little-dream</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/dream-a-little-dream.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/dream-a-little-dream.html</link>
+<guid>http://www.nitemarecafe.com/./dream-a-little-dream.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 15 May 2025 13:35:31 -0400</pubDate></item>
 <item><title>
 Battlestar Galactica
 </title><description><![CDATA[
@@ -311,21 +335,4 @@ The Matrix
 <guid>http://www.nitemarecafe.com/./the-matrix.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sun, 30 Mar 2025 17:27:20 -0400</pubDate></item>
-<item><title>
-Airheads
-</title><description><![CDATA[
-
-<p>This one is a bit newer than <a href="/the-blues-brothers.html">The Blues Brothers</a>,
- and I'm not a huge fan of Adam Sandler, but <a href="https://www.imdb.com/title/tt0109068/">Airheads</a>
- was another great music comedy that I just finished a rewatch of. Definitely going in my rotation for
- fairly regular rewatch.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_comedy.html'>comedy</a>, <a href='tag_airheads.html'>airheads</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/airheads.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/airheads.html</link>
-<guid>http://www.nitemarecafe.com/./airheads.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 29 Mar 2025 12:05:12 -0400</pubDate></item>
 </channel></rss>
