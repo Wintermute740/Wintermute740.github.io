@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 15 May 2025 13:35:33 -0400</lastBuildDate>
-<pubDate>Thu, 15 May 2025 13:35:33 -0400</pubDate>
+<lastBuildDate>Fri, 16 May 2025 10:54:27 -0400</lastBuildDate>
+<pubDate>Fri, 16 May 2025 10:54:27 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Grosse Pointe Blank
+</title><description><![CDATA[
+
+<p>Confession time: I never saw <a href="https://www.imdb.com/title/tt0119229/">
+ Grosse Pointe Blank</a> when it first came out. I didn't see it until many years
+ later. This rewatch was only the second time I've seen the movie. And what a quirky
+ little movie it is. It's a romcom. It's a thriller. It's an action-adventure. It's a
+ crime drama. It's a bit of all those things, but unlike many films which fail to be
+ more than one or two things, this one works.</p>
+
+<p>Somewhat ironically, had I watched it when it first made it to premium cable,
+it probably would have been somewhere around the time of my own 10 year reunion.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_comedy.html'>comedy</a>, <a href='tag_grosse-pointe-blank.html'>grosse-pointe-blank</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/grosse-pointe-blank.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/grosse-pointe-blank.html</link>
+<guid>http://www.nitemarecafe.com/./grosse-pointe-blank.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 16 May 2025 10:54:25 -0400</pubDate></item>
 <item><title>
 Dream a Little Dream
 </title><description><![CDATA[
@@ -306,33 +328,4 @@ The Matrix: Reloaded
 <guid>http://www.nitemarecafe.com/./the-matrix-reloaded.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 31 Mar 2025 10:12:11 -0400</pubDate></item>
-<item><title>
-The Matrix
-</title><description><![CDATA[
-
-<p>Continuing on my binge of older movies, I just finished the first of <a href="https://www.imdb.com/title/tt0133093/">The Matrix</a>
- trilogy, and I am suprised at how well it holds up.</p>
-
-<p>I remember when this one first came out. My wife an I watched a *lot* of movies
- back then. We had gone to a packed cinema on a Friday or Saturday evening and took
- her brother and parents with us. The showing was nearly sold out, and we wound up
- with crappy seats (way too close and way too off from the center of the screen) for
- a movie none of us had actually heard of. And then the lights went down and the
- movie started, and all the complaining about being too crowded and crappy seats
- suddenly stopped.</p>
-
-<p>As I mentioned, the original held up extremely well. I did not like the second
- film in the series, and always felt like <a href="https://www.imdb.com/title/tt0242653/">
- Revolutions</a> would have been much better if Reloaded had never happened, so I don't know
- whether to skip <a href="https://www.imdb.com/title/tt0234215/">Reloaded</a> and go
- straight to <a href="https://www.imdb.com/title/tt0328832/">The Animatrix</a> or not.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/the-matrix.html</link>
-<guid>http://www.nitemarecafe.com/./the-matrix.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sun, 30 Mar 2025 17:27:20 -0400</pubDate></item>
 </channel></rss>
