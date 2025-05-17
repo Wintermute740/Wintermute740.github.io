@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 16 May 2025 10:54:27 -0400</lastBuildDate>
-<pubDate>Fri, 16 May 2025 10:54:27 -0400</pubDate>
+<lastBuildDate>Sat, 17 May 2025 16:42:36 -0400</lastBuildDate>
+<pubDate>Sat, 17 May 2025 16:42:36 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Twofer
+</title><description><![CDATA[
+
+<p>Last night I managed to get two rewatches in to celebrate my upcoming vacation week.</p>
+
+<p>I started off with <a href="https://www.imdb.com/title/tt0146882/">Hi Fidelity</a>. That
+ one is a bit of a slow burn before it starts getting good. Does kinda make me with I could
+ just open a record store though. ;)</p>
+
+<p>And the second rewatch was <a href="https://www.imdb.com/title/tt0099575/">Fire Birds</a>,
+ which is basically <a href="https://www.imdb.com/title/tt0092099/">Top Gun</a> in Apache
+ attack helicopters with quite possibly even more star power in the cast. It was quite a bit
+ better than I remembered it being and I enjoyed it very much.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_fire-birds.html'>fire-birds</a>, <a href='tag_hi-fidelity.html'>hi-fidelity</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/twofer.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/twofer.html</link>
+<guid>http://www.nitemarecafe.com/./twofer.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 17 May 2025 16:42:34 -0400</pubDate></item>
 <item><title>
 Grosse Pointe Blank
 </title><description><![CDATA[
@@ -302,30 +325,4 @@ The Animatrix
 <guid>http://www.nitemarecafe.com/./the-animatrix.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Tue, 01 Apr 2025 09:08:01 -0400</pubDate></item>
-<item><title>
-The Matrix: Reloaded
-</title><description><![CDATA[
-
-<p>I decided to not skip anything in my rewatch of <a href="/the-matrix.html">The
- Matrix</a>, and am watching them in release order, so that meants I did wind up
- watching <a href="https://www.imdb.com/title/tt0234215/">Reloaded</a> last night.</p>
-
-<p>I think this is the first time I've rewatched it since it came out. As previously
- mentioned, I had originally thought that the series was stronger without it, and
- that it someone ruined <a href="https://www.imdb.com/title/tt0242653/">Revolutions</a>.
- While still not my favorite movie, I didn't find it nearly as bad as I did way
- back when I originally watched it. There are a few scenes which probably should
- have never made it past the cutting room, but overall it was better than I remembered.</p>
-
-<p>Because I am going in release order, <a href="https://www.imdb.com/title/tt0328832/">The
- Animatrix</a> is next.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix-reloaded.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/the-matrix-reloaded.html</link>
-<guid>http://www.nitemarecafe.com/./the-matrix-reloaded.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Mon, 31 Mar 2025 10:12:11 -0400</pubDate></item>
 </channel></rss>
