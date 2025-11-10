@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 19 Jun 2025 11:12:27 -0400</lastBuildDate>
-<pubDate>Thu, 19 Jun 2025 11:12:27 -0400</pubDate>
+<lastBuildDate>Mon, 10 Nov 2025 10:27:40 -0500</lastBuildDate>
+<pubDate>Mon, 10 Nov 2025 10:27:40 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+RV Life
+</title><description><![CDATA[
+
+<p>It is now winter camping season at the campground, and having an RV here means that the RV needs to remain occupied. So, nothing but day trips to the house to get it cleaned out. In the spring, I don't plan on renewing my lease unless the winter is just too rough. But I have Refectix to put in my windows if it drops too cold for a long time. I have electric everything so that I don't have to worry about running out of propane. I've really been preparing it for dealing with the cold.</p>
+
+<p>Tags: <a href='tag_rv.html'>rv</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/rv-life15947.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/rv-life15947.html</link>
+<guid>http://www.nitemarecafe.com/./rv-life15947.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Mon, 10 Nov 2025 10:27:37 -0500</pubDate></item>
 <item><title>
 Compaq Portable Tube Swap
 </title><description><![CDATA[
@@ -289,29 +303,4 @@ The Matrix: Ressurections
 <guid>http://www.nitemarecafe.com/./the-matrix-ressurections.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 03 Apr 2025 08:33:26 -0400</pubDate></item>
-<item><title>
-The Matrix: Revolutions
-</title><description><![CDATA[
-
-<p>We finally made it to <a href="https://www.imdb.com/title/tt0242653/">Revolutions</a>,
- that unsatistfying end to the original Matrix trilogy. I no longer feel like
- <a href="the-matrix-reloaded.html">Reloaded</a> ruined it, and it's not a <b>bad</b>
- movie. It just wasn't great. I'm glad I finally rewatched it.</p>
-
-<p>Overall, the entire trilogy holds up fairly well. The original was mind-blowing
- when it came out and is still a great film. The other two are simultaniously
- better and worse than I remembered them. The second one was too long and the ending
- just wasn't very satisfying, which is probably why they eventually made the new one,
- <a href="https://www.imdb.com/title/tt10838180/">The Matrix: Cash Grab</a>, errr... 
- <b>Resurrections</b>. I'll be wrapping up with that next, even though it took me
- several attempts to make it through it the first time.</p>
- 
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_matrix.html'>matrix</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/the-matrix-revolutions.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/the-matrix-revolutions.html</link>
-<guid>http://www.nitemarecafe.com/./the-matrix-revolutions.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Wed, 02 Apr 2025 08:14:27 -0400</pubDate></item>
 </channel></rss>
