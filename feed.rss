@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 05 Dec 2025 14:18:22 -0500</lastBuildDate>
-<pubDate>Fri, 05 Dec 2025 14:18:22 -0500</pubDate>
+<lastBuildDate>Sun, 14 Dec 2025 09:26:16 -0500</lastBuildDate>
+<pubDate>Sun, 14 Dec 2025 09:26:16 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+A little cool this morning...
+</title><description><![CDATA[
+
+<p>
+Woke up this AM, and it's 4°F (-15.5 °C) and my water pipe survived the night! Inside temp was 67.8°F, which is right about where I have the heat kick in, and looking at my home automation logs, it looks like it had just dropped below that threshold right before I got up. It looks like it may just be maintaining that temperature, though, and not bringing up to my cutoff temp, so it looks like I should probably add a second small heater to the space for the bitter nights.
+</p>
+<p>
+What I was not expecting was that when I tried to take the dog out, the bottom edge of the door would be frozen shut. A swift kick to the bottom of the door resolved that easy enough. Turns out a piece of plastic trim under the door had frozen to it, so I'll either need to remove or fix that when it warms back up. Also, apparently there was ice in the latching mechanism, because the door latch got stuck to where it doesn't hold the door closed. Luckily, the locking mechanism is somewhat separate on RV doors, so I can use it to hold the door shut and it should be back to normal once it warms up.
+</p>
+<p>
+There's a tiny bit of frost on the inside of the door frame along the inside edges of the door, so cold it definitely getting in through there. I may need to put the refectx back up if we're going to get a longer cold snap, but it should be warming up to closer to freezing tomorrow night, and into the 50s on Thursday, so I am not too concerned about it for this round. I'll likely hang a heavy blanket over the door for the next two days to handle that, because the reflectix needs taped to the door, at least to get it in place. It goes on in three pieces, and the tape holds it in place until I can get the outer door and screen door latched back together. Then it stays up from being in between the two parts of the door.
+</p>
+
+<p>Tags: <a href='tag_rv.html'>rv</a>, <a href='tag_winter.html'>winter</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/a-little-cool-this-morning.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/a-little-cool-this-morning.html</link>
+<guid>http://www.nitemarecafe.com/./a-little-cool-this-morning.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 14 Dec 2025 09:26:14 -0500</pubDate></item>
 <item><title>
 Georgie and Mandy's First Marriage
 </title><description><![CDATA[
@@ -259,32 +281,4 @@ Compaq LTE Elite 4/75CX
 <guid>http://www.nitemarecafe.com/./compaq-lte-elite-475cx.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sun, 06 Apr 2025 10:21:28 -0400</pubDate></item>
-<item><title>
-Real Genius
-</title><description><![CDATA[
-
-<p>Earlier this week, we lost another great actor in Val Kilmer. Most people will
- always think of Iceman from Top Gun when they think of him, or Batman, but to me
- he will always be Chris Knight from <a href="https://www.imdb.com/title/tt0089886/">
- Real Genius</a>. So to honor him in my own way, I continued my rewatch of my old
- favorites with this gem.</p>
-
-<p>Even though laser technotogy has come a long way since the mid-80's, this movie
- played just as well today as it did 40 years ago. I'm guessing people not interested
- in such technology probably now about the same amount about lasers now as they did
- back then, and because the laser was just a prop for the character-driven story, the
- movie aged well.</p>
-
-<p>If you've never seen it, you owe it to yourself to check it out. It's one of my
- favorite movies of all time, and some of Val Kilmer's best work.</p>
-
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_real-genius.html'>real-genius</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/real-genius.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/real-genius.html</link>
-<guid>http://www.nitemarecafe.com/./real-genius.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 04 Apr 2025 07:59:27 -0400</pubDate></item>
 </channel></rss>
