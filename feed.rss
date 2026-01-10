@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 08 Jan 2026 11:35:04 -0500</lastBuildDate>
-<pubDate>Thu, 08 Jan 2026 11:35:04 -0500</pubDate>
+<lastBuildDate>Sat, 10 Jan 2026 13:33:20 -0500</lastBuildDate>
+<pubDate>Sat, 10 Jan 2026 13:33:20 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Snowsky Echo Mini
+</title><description><![CDATA[
+
+<p>I just picked up a <b>Snowsky Echo Mini</b> mp3 player along with a couple of cheap pair of wired headphones, <b>Sony MDR-ZX110</b> on-ear headphones and <b>RORSOU R10</b> over-ear headphones. I tested both pair on my laptop to get a feel for how they sound, and both perform better than their pricepoint but about what one would expect from a fairly good pair of each type.</p>
+
+<p>The mp3 player has 8GB of storage built in but also takes microSD, but the 8GB is plenty if I carefully curate my music instead of just dumping everything I own onto it. I do need to re-tage all my music, as most show as "unknown" during playback, but this thing sounds pretty amazing. I am so glad that I decided to ditch the smartphone and go with more dedicated devices. I think this will fix my relationship with music.</p>
+
+<p>Tags: <a href='tag_mp3-player.html'>mp3-player</a>, <a href='tag_headphones.html'>headphones</a>, <a href='tag_review.html'>review</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/snowsky-echo-mini.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/snowsky-echo-mini.html</link>
+<guid>http://www.nitemarecafe.com/./snowsky-echo-mini.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 10 Jan 2026 13:33:17 -0500</pubDate></item>
 <item><title>
 Flip Phone
 </title><description><![CDATA[
@@ -181,30 +197,4 @@ Coleman as much as I related to Bobby back when it came out.</p>
 <guid>http://www.nitemarecafe.com/./dream-a-little-dream.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 15 May 2025 13:35:31 -0400</pubDate></item>
-<item><title>
-Battlestar Galactica
-</title><description><![CDATA[
-
-
-<p>
-Just finished my first rewatch of the original Battlestar Galactica series from 1978 for the first time in forever. Galactica 1980 was horrible aside from "The Return of Starbuck," so I skipped that series and just stuck to the single season of the original.
-</p>
-<p>
-I'll address the uneven acting first to get it out of the way. If it seems like the actors were reading their lines for the very first time in some of the episodes, it's because they were. The scripts were sometimes completed just before shooting, so the actors had to read them for the first time off of cue cards while shooting the scene. As a kid, I never caught on to this. As an adult, it's glaringly obvious.
-</p>
-<p>
-Some of the episodes were a bit silly, also for the aforementioned reason. This was meant to be a three-episode miniseries but suddenly became a weekly series, without an adequate budget or time to prepare the scripts. The episode which weren't just plain silly were allegories, many of them for the Mormon church. The "Ships of Light" episode were always my least favorite, even as a kid. The "Eastern Alliance" was a bit on-the-nose with fairly recent Earth history, too. I started laughing during my rewatch when one of the Easter Alliance members spoke with a poorly-faked German accent.
-</p>
-<p>
-I realize after this most recent re-watch that my fondness for the series is mostly nostalgia, because it reminds me of my childhood. I'll always have a fondness for it, even though it was never great to begin with.
-</p>
-
-<p>Tags: <a href='tag_tv.html'>tv</a>, <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_battlestar-galactica.html'>battlestar-galactica</a>, <a href='tag_nostalgia.html'>nostalgia</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/battlestar-galactica.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/battlestar-galactica.html</link>
-<guid>http://www.nitemarecafe.com/./battlestar-galactica.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sun, 11 May 2025 13:30:46 -0400</pubDate></item>
 </channel></rss>
