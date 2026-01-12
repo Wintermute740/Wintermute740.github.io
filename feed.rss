@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 10 Jan 2026 13:33:20 -0500</lastBuildDate>
-<pubDate>Sat, 10 Jan 2026 13:33:20 -0500</pubDate>
+<lastBuildDate>Sun, 11 Jan 2026 19:00:53 -0500</lastBuildDate>
+<pubDate>Sun, 11 Jan 2026 19:00:53 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+FreeTube
+</title><description><![CDATA[
+
+<p>Cory Doctorow has been talking about "enshittification" for awhile now. <a href="https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys">Here</a> is one of his early posts, though certainly not his first, which really gained popularity.</p>
+
+<p>Of course, the enshittification of YouTube has been going on pretty much since Google bought it almost 20 years ago. The algorithms have been getting steadily worse of late, which is why I am ditching my smartphone except for work and moving to single-use devices. But YouTube still provides value, it's just that it is easy to get sucked into the algorithm. So I have found a way to still enjoy YouTube: <a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a>. It is available on Mac, Windows and Linux. There is also a version available for <a href="https://github.com/MarmadileManteater/FreeTubeAndroid">Android</a>.</p>
+
+<p><b>FreeTube</b> allows you to enjoy YouTube without logging in, and everything is stored locally. This means you cannot comment from within it, but you can hit "Share" on a video and grab the link, paste it into your browser, and comment to your heart's content. It also means it doesn't sync your data between devices like you can when you're logged in. But Google cannot feed you Javascript or Cookies or anything else to track you. If you use Tor or a VPN and it uses different exit nodes, it even makes it harder to ID you via your IP address.</p>
+
+<p>I just started using it, and I will still be going to YouTube directly occassionally for Lives and Premieres so that I can chat real-time with the creators. I also comment of videos every now and then to make it feel more like a community. But most of my use will start from within FreeTube before launching a browser. This lets me take back control from the algorithms which are trying to push content you may not like to engage with in front of you.</p>
+
+<p>I am taking power away from the algorithms by carefully curating content I actually <i>want</i> to engage with. I wish there were something for Facebook which just showed my the content from my friends and the groups and pages I actually follow. Until I find a solution for that, my time on Facebook will be strictly limited. I will likely even set up a bookmark page with links to the specific people, pages, and groups I wish to remain engaged with, then only engage via those links. It's getting too easy to get drawn into doomscrolling. I am done with <i>that</i>.
+
+<p>Tags: <a href='tag_YouTube.html'>YouTube</a>, <a href='tag_enshittification.html'>enshittification</a>, <a href='tag_FreeTube.html'>FreeTube</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/freetube.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/freetube.html</link>
+<guid>http://www.nitemarecafe.com/./freetube.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 11 Jan 2026 19:00:51 -0500</pubDate></item>
 <item><title>
 Snowsky Echo Mini
 </title><description><![CDATA[
@@ -173,28 +195,4 @@ it probably would have been somewhere around the time of my own 10 year reunion.
 <guid>http://www.nitemarecafe.com/./grosse-pointe-blank.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 16 May 2025 10:54:25 -0400</pubDate></item>
-<item><title>
-Dream a Little Dream
-</title><description><![CDATA[
-
-<p>Yet another movie rewatch? Well, it's what I've been doing a lot lately, so sure. Why not? ;)</p>
-
-<p>This time, it was <a href="https://www.imdb.com/title/tt0097236/">Dream a Little Dream</a>. I remember
-seeing this one a few times shortly after it came out, and while I enjoyed it I found it a bit on the weird
-side. It wasn't the type of movie I particularly liked back then, but something drew me to it.</p>
-
-<p>This is the first time I've rewatched it in nearly 40 years, and it hits a lot differently when you're
-older instead of recently graduated from high school. I actually like it even more now that I can relate to
-Coleman as much as I related to Bobby back when it came out.</p>
-
-<p>If you didn't like it when you were young, watch it again with an open mind. You may find you like it now.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_dream-a-little-dream.html'>dream-a-little-dream</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/dream-a-little-dream.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/dream-a-little-dream.html</link>
-<guid>http://www.nitemarecafe.com/./dream-a-little-dream.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 15 May 2025 13:35:31 -0400</pubDate></item>
 </channel></rss>
