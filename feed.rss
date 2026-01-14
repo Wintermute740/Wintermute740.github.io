@@ -2,9 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 11 Jan 2026 19:00:53 -0500</lastBuildDate>
-<pubDate>Sun, 11 Jan 2026 19:00:53 -0500</pubDate>
+<lastBuildDate>Wed, 14 Jan 2026 08:33:25 -0500</lastBuildDate>
+<pubDate>Wed, 14 Jan 2026 08:33:25 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+PSA: Disable Alerts
+</title><description><![CDATA[
+
+<p>I use Google Calendar to remind me to pay things, which weekends are for feeding the snake, when the dog needs her meds, etc. Those things, it makes sense to allow alerts. Just set those reminders for a specific time, have it alert 30 minutes prior, and all good.</p>
+
+<p>However, I also use Calendar to remember dates. Birthdays, anniversaries of important events, etc. Those are set up as all-day events. And by default, they'll alert as well.</p>
+
+<p>I also use Thunderbird as my e-mail client. It syncs my calendar with Google as well as my mail. And guess what? It will use the same alert settings as you set up on Google. But also, while Google only alerts once, Thunderbird will keep alerting you every so often until you dismiss the alert.</p>
+
+<p>Today is the one-year anniversary that one of my half-sisters pinged me to let me know "Bob passed away..." Bob referring to Robert D. Barnhart, my birth father that I hadn't seen in 40 years. Because we weren't close, I knew it wasn't a date I would remember on my own. Who am I kidding? I suck at dates. I wouldn't have remembered it even if we were. ;) So, I put it in Google Calendar.</p>
+
+<p>In the middle of the night last night, I heard a strange beep which woke me up. I checked the new flip phone in case it was an alert I was unfamiliar with. Nope. I checked the smartphone, which was plugged in. Nothing. It sounded vaguely like the alert it will give if there is moisture in the charging port, so even though it didn't give that alert on-screen, I unplugged it. It seemed to stop, so I fell back asleep after awhile.</p>
+
+<p>Of course you see where this is going. Awhile later, it woke me up again. I couldn't find it. Fell back asleep. Rinse-repeat a couple of times. Eventually I was so exhausted that I slept through them. They weren't terribly obnoxious. I get up this morning, sit down at my computer to check when my Amazon deliveries should be here today, and there on my screen is the alert from Thunderbird. Dutifully reminding me of something I had marked as an all-day event ever 30 minutes or so since 11:30 last night.</p>
+
+<p>So, this is your PSA to disable alerts for your all-day events in Google Calendar unless you actually need them. The default to "on," even for all-day events. ;)</p>
+
+<p>Tags: <a href='tag_google-calendar.html'>google-calendar</a>, <a href='tag_alerts.html'>alerts</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/psa-disable-alerts.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/psa-disable-alerts.html</link>
+<guid>http://www.nitemarecafe.com/./psa-disable-alerts.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Wed, 14 Jan 2026 08:33:22 -0500</pubDate></item>
 <item><title>
 FreeTube
 </title><description><![CDATA[
@@ -173,26 +199,4 @@ Twofer
 <guid>http://www.nitemarecafe.com/./twofer.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 17 May 2025 16:42:34 -0400</pubDate></item>
-<item><title>
-Grosse Pointe Blank
-</title><description><![CDATA[
-
-<p>Confession time: I never saw <a href="https://www.imdb.com/title/tt0119229/">
- Grosse Pointe Blank</a> when it first came out. I didn't see it until many years
- later. This rewatch was only the second time I've seen the movie. And what a quirky
- little movie it is. It's a romcom. It's a thriller. It's an action-adventure. It's a
- crime drama. It's a bit of all those things, but unlike many films which fail to be
- more than one or two things, this one works.</p>
-
-<p>Somewhat ironically, had I watched it when it first made it to premium cable,
-it probably would have been somewhere around the time of my own 10 year reunion.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_comedy.html'>comedy</a>, <a href='tag_grosse-pointe-blank.html'>grosse-pointe-blank</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/grosse-pointe-blank.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/grosse-pointe-blank.html</link>
-<guid>http://www.nitemarecafe.com/./grosse-pointe-blank.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Fri, 16 May 2025 10:54:25 -0400</pubDate></item>
 </channel></rss>
