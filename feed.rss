@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 15 Jan 2026 12:47:51 -0500</lastBuildDate>
-<pubDate>Thu, 15 Jan 2026 12:47:51 -0500</pubDate>
+<lastBuildDate>Thu, 15 Jan 2026 12:53:16 -0500</lastBuildDate>
+<pubDate>Thu, 15 Jan 2026 12:53:16 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 MTV Rewind
@@ -16,6 +16,7 @@ MTV Rewind
         allowfullscreen>
 </iframe></p>
 
+<p>The above embed is <b>supposed</b> to show you <i>Headbanger's Ball</i> videos, but it seems to igore the channel= tag on the url. :(</p>
 <p>Tags: <a href='tag_mtv.html'>mtv</a>, <a href='tag_headbangers-ball.html'>headbangers-ball</a></p>
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/mtv-rewind.html#disqus_thread">Comments?</a> &nbsp;
