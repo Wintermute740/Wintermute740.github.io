@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Wed, 14 Jan 2026 08:33:25 -0500</lastBuildDate>
-<pubDate>Wed, 14 Jan 2026 08:33:25 -0500</pubDate>
+<lastBuildDate>Thu, 15 Jan 2026 11:18:14 -0500</lastBuildDate>
+<pubDate>Thu, 15 Jan 2026 11:18:14 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Beard care
+</title><description><![CDATA[
+
+<p>I've grown a beard before, mostly out of sheer hatred of shaving, but every time it has gotten to the point of itching, I've always just shaved it off and started over. But I've had a beard for several months now, and it was looking a little scraggly, so I decided to do something about it.</p>
+
+<p>I picked up a cordless beard trimmer, which has an adjustable guard built in, and it works great. I figured I would trim my beard to about an 8 to get it a consistent length, and also picked up some beard oil to apply to make it softer. I shaped the beard a bit, to it's no longer down as far on my neck or too high above my jawline, and trimmed my mustache for the first time ever as well. I was getting a bit unruly too. In about a month or so, I will trim things up again but maybe to an 8.5 or 9, and gradually increase the length as long as the beard is consistent at the longer length. I may stop at 10, or I may let the beard itself grow longer, while keeping lines nice and blended. I don't think it looks half bad for me first ever attempt at actually grooming my beard. ;)</b>
+
+<p>For those curious, I picked up beard oil, and a beard grooming kit (brush, comb, small scissors) by Viking Revolution. They make a beard wash and a conditioner as well, which I may also pick up if I think it's needed. But now my beard smells like sandlewood. ;)</p>
+
+<p>Tags: <a href='tag_beard.html'>beard</a>, <a href='tag_grooming.html'>grooming</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/beard-care.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/beard-care.html</link>
+<guid>http://www.nitemarecafe.com/./beard-care.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 15 Jan 2026 11:18:11 -0500</pubDate></item>
 <item><title>
 PSA: Disable Alerts
 </title><description><![CDATA[
@@ -176,27 +194,4 @@ Compaq Portable Tube Swap
 <guid>http://www.nitemarecafe.com/./compaq-portable-tube-swap.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 19 Jun 2025 11:12:25 -0400</pubDate></item>
-<item><title>
-Twofer
-</title><description><![CDATA[
-
-<p>Last night I managed to get two rewatches in to celebrate my upcoming vacation week.</p>
-
-<p>I started off with <a href="https://www.imdb.com/title/tt0146882/">Hi Fidelity</a>. That
- one is a bit of a slow burn before it starts getting good. Does kinda make me with I could
- just open a record store though. ;)</p>
-
-<p>And the second rewatch was <a href="https://www.imdb.com/title/tt0099575/">Fire Birds</a>,
- which is basically <a href="https://www.imdb.com/title/tt0092099/">Top Gun</a> in Apache
- attack helicopters with quite possibly even more star power in the cast. It was quite a bit
- better than I remembered it being and I enjoyed it very much.</p>
-
-<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_fire-birds.html'>fire-birds</a>, <a href='tag_hi-fidelity.html'>hi-fidelity</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/twofer.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/twofer.html</link>
-<guid>http://www.nitemarecafe.com/./twofer.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 17 May 2025 16:42:34 -0400</pubDate></item>
 </channel></rss>
