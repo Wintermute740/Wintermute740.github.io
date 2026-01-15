@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 15 Jan 2026 11:18:14 -0500</lastBuildDate>
-<pubDate>Thu, 15 Jan 2026 11:18:14 -0500</pubDate>
+<lastBuildDate>Thu, 15 Jan 2026 12:47:51 -0500</lastBuildDate>
+<pubDate>Thu, 15 Jan 2026 12:47:51 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+MTV Rewind
+</title><description><![CDATA[
+
+<p><iframe src="https://wantmymtv.xyz/embed.html?channel=metal" 
+        width="800" 
+        height="600" 
+        frameborder="0"
+        allowfullscreen>
+</iframe></p>
+
+<p>Tags: <a href='tag_mtv.html'>mtv</a>, <a href='tag_headbangers-ball.html'>headbangers-ball</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/mtv-rewind.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/mtv-rewind.html</link>
+<guid>http://www.nitemarecafe.com/./mtv-rewind.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 15 Jan 2026 12:47:49 -0500</pubDate></item>
 <item><title>
 Beard care
 </title><description><![CDATA[
@@ -176,22 +195,4 @@ RV Life
 <guid>http://www.nitemarecafe.com/./rv-life15947.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 10 Nov 2025 10:27:37 -0500</pubDate></item>
-<item><title>
-Compaq Portable Tube Swap
-</title><description><![CDATA[
-
-<p>After watching a video of someone doing the same to their IBM portabe, I decided to
-   swap the tube in my Compaq Portable, which had a green CRT, to a white one from a
-   Mac Plus. You have to swap the yoke because the wiring is different, but the pinout
-   for the neck board is the same, so it went pretty well and only required minor
-   adjustments when I was done. A white screen on this machine is absolutely beautiful.</p>
-
-<p>Tags: <a href='tag_retro-computing.html'>retro-computing</a>, <a href='tag_compaq.html'>compaq</a>, <a href='tag_crt.html'>crt</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/compaq-portable-tube-swap.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/compaq-portable-tube-swap.html</link>
-<guid>http://www.nitemarecafe.com/./compaq-portable-tube-swap.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 19 Jun 2025 11:12:25 -0400</pubDate></item>
 </channel></rss>
