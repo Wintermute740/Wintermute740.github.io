@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Thu, 15 Jan 2026 12:56:26 -0500</lastBuildDate>
-<pubDate>Thu, 15 Jan 2026 12:56:26 -0500</pubDate>
+<lastBuildDate>Sun, 18 Jan 2026 17:58:04 -0500</lastBuildDate>
+<pubDate>Sun, 18 Jan 2026 17:58:04 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Metropolis (1927)
+</title><description><![CDATA[
+
+<p>"The year is 2026, a Dickensian 'Best of times, worst of times,' where total oppression of the masses is wielded by the unquestionable power of the few." - Metropolis (1927)</p>
+
+<p>Being a bit of a movie buff and certainly a sci-fi geek (you're surprised? Do you  even know me?!?! lol), I'm surprised it's taken me this long to catch 1927's masterpiece, Metropolis. Sadly, many of the great movies from the silent era are only available as restorations/recreations. A few years back I watched the 1995 restoration of 1922's Nosferatu before the 2024 remake was released. I was impressed with how closely that one followed the silent film.</p>
+
+<p>For Metropolis, I just did a search and watched the first version I found. It just happened to be Giorgio Moroder's 1984 version. It was... not what I expected, seeing as I had no idea who that is. Looking him up afterwards, it makes a bit more sense. The original score has not been recreated for this restoration. Oh no. It's all contemporary (for the time) rock and pop. There are some heavy hitters on this soundtrack, so I wasn't disappointed. Freddie Mercury, Pat Benatar, Bonnie Tyler, Billy Squier, Loverboy, Adam Ant, Jon Anderson, Frank Dimino, and of course Giorgio Moroder's score.</p>
+
+<p>Anyhow, it (both the original 1927 version and this one) was panned by critics but has since found a bit of a cult following. I love this version for the soundtrack alone.</p>
+
+<p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_sci-fi.html'>sci-fi</a>, <a href='tag_silent-films.html'>silent-films</a>, <a href='tag_metropolis.html'>metropolis</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/metropolis-1927.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/metropolis-1927.html</link>
+<guid>http://www.nitemarecafe.com/./metropolis-1927.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sun, 18 Jan 2026 17:58:01 -0500</pubDate></item>
 <item><title>
 Beard care
 </title><description><![CDATA[
@@ -176,22 +196,4 @@ RV Life
 <guid>http://www.nitemarecafe.com/./rv-life15947.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Mon, 10 Nov 2025 10:27:37 -0500</pubDate></item>
-<item><title>
-Compaq Portable Tube Swap
-</title><description><![CDATA[
-
-<p>After watching a video of someone doing the same to their IBM portabe, I decided to
-   swap the tube in my Compaq Portable, which had a green CRT, to a white one from a
-   Mac Plus. You have to swap the yoke because the wiring is different, but the pinout
-   for the neck board is the same, so it went pretty well and only required minor
-   adjustments when I was done. A white screen on this machine is absolutely beautiful.</p>
-
-<p>Tags: <a href='tag_retro-computing.html'>retro-computing</a>, <a href='tag_compaq.html'>compaq</a>, <a href='tag_crt.html'>crt</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/compaq-portable-tube-swap.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/compaq-portable-tube-swap.html</link>
-<guid>http://www.nitemarecafe.com/./compaq-portable-tube-swap.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 19 Jun 2025 11:12:25 -0400</pubDate></item>
 </channel></rss>
