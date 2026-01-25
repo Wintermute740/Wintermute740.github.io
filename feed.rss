@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sun, 18 Jan 2026 17:58:04 -0500</lastBuildDate>
-<pubDate>Sun, 18 Jan 2026 17:58:04 -0500</pubDate>
+<lastBuildDate>Sat, 24 Jan 2026 20:48:46 -0500</lastBuildDate>
+<pubDate>Sat, 24 Jan 2026 20:48:46 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Trust Your Technolust
+</title><description><![CDATA[
+
+<p><img source="images/20-year-hak5-challenge-coin_1000_transparent_2000x.webp" />I ordered the 20th anniversary <a href="https://hak5.org">Hak5</a> challenge coin, which I knew had 20+ puzzles on it, but I did not realize that there is a grand prize for one person who figures it all out.</p>
+
+<p>Tags: <a href='tag_hak5.html'>hak5</a>, <a href='tag_arg.html'>arg</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/trust-your-technolust.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/trust-your-technolust.html</link>
+<guid>http://www.nitemarecafe.com/./trust-your-technolust.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 24 Jan 2026 20:48:44 -0500</pubDate></item>
 <item><title>
 Metropolis (1927)
 </title><description><![CDATA[
@@ -182,18 +196,4 @@ Georgie and Mandy's First Marriage
 <guid>http://www.nitemarecafe.com/./georgie-and-mandys-first-marriage.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Fri, 05 Dec 2025 13:43:34 -0500</pubDate></item>
-<item><title>
-RV Life
-</title><description><![CDATA[
-
-<p>It is now winter camping season at the campground, and having an RV here means that the RV needs to remain occupied. So, nothing but day trips to the house to get it cleaned out. In the spring, I don't plan on renewing my lease unless the winter is just too rough. But I have Refectix to put in my windows if it drops too cold for a long time. I have electric everything so that I don't have to worry about running out of propane. I've really been preparing it for dealing with the cold.</p>
-
-<p>Tags: <a href='tag_rv.html'>rv</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/rv-life15947.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/rv-life15947.html</link>
-<guid>http://www.nitemarecafe.com/./rv-life15947.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Mon, 10 Nov 2025 10:27:37 -0500</pubDate></item>
 </channel></rss>
