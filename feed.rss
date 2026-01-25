@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Sat, 24 Jan 2026 20:50:56 -0500</lastBuildDate>
-<pubDate>Sat, 24 Jan 2026 20:50:56 -0500</pubDate>
+<lastBuildDate>Sat, 24 Jan 2026 20:58:14 -0500</lastBuildDate>
+<pubDate>Sat, 24 Jan 2026 20:58:14 -0500</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Trust Your Technolust
 </title><description><![CDATA[
 
-<p><img src="images/20-year-hak5-challenge-coin_1000_transparent_2000x.webp" /></p><p>I ordered the 20th anniversary <a href="https://hak5.org">Hak5</a> challenge coin, which I knew had 20+ puzzles on it, but I did not realize that there is a grand prize for one person who figures it all out.</p>
+<p>I ordered this because I thought it was kinda cool, seeing as I've been interested in cybersecurity since before I even started a career in IT. Also love <a href="https://hak5.org">Hak5</a>'s products (the pager  is absolutely awesome). I even knew there were some puzzles on the coin. What I didn't know was that the puzzles lead to a grand prize for one lucky hacker. Some are saying it's an all-out ARG. So... Who wants to help me solve this and share the prize with me? ;)</p>
+
+<p><img src="images/20-year-hak5-challenge-coin_1000_transparent_2000x.webp" /></p>
 
 <p>Tags: <a href='tag_hak5.html'>hak5</a>, <a href='tag_arg.html'>arg</a></p>
 <!-- text end -->
