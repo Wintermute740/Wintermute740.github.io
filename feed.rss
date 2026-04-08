@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 07 Apr 2026 21:48:41 -0400</lastBuildDate>
-<pubDate>Tue, 07 Apr 2026 21:48:41 -0400</pubDate>
+<lastBuildDate>Tue, 07 Apr 2026 21:49:31 -0400</lastBuildDate>
+<pubDate>Tue, 07 Apr 2026 21:49:31 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Mathias paternal line
@@ -39,21 +39,6 @@ Mathias paternal line
 <guid>http://www.nitemarecafe.com/./mathias-paternal-line.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Tue, 07 Apr 2026 21:48:37 -0400</pubDate></item>
-<item><title>
-Title on this line
-</title><description><![CDATA[
-
-<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
-as you exit your editor.</p>
-
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/title-on-this-line.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/title-on-this-line.html</link>
-<guid>http://www.nitemarecafe.com/./title-on-this-line.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Tue, 07 Apr 2026 21:47:33 -0400</pubDate></item>
 <item><title>
 Barnhart paternal line
 </title><description><![CDATA[
@@ -225,4 +210,21 @@ I just need to get outside and touch grass every now and then. I need to be pres
 <guid>http://www.nitemarecafe.com/./flip-phone.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Thu, 08 Jan 2026 11:33:29 -0500</pubDate></item>
+<item><title>
+Happy New Year!
+</title><description><![CDATA[
+
+<p>Like most years, 2025 was a mixed bag. There was some good and some bad, and lots of change.</p>
+
+<p>The biggest change is my move (in-progress) into an RV, I can afford rent, but I really don't see a way to retire unless I cut costs, eliminate debt, and build savings. Living in the RV costs an average of about $700 for lot rent and electicity, while the house runs over twice for rent alone. With utilities and such, the house costs about three times more to live in than the RV. And while my lease isn't up yet, just staying in the RV instead of the house cut down on those utility costs considerably, so I am already starting too slowly build my savings and cut my debt.</p>
+
+<p>The biggest thing I need to do in the next few months is clean out the house. A good portion of stuff is going into storage for if and when I eventually rent another house, and the rest is being donated and/or trashed. My vintage computer collection will remain accessible, as I plan on continuing to repair them even with my limited space at the RV. Once the lease is up. my savings will really start to build, even as my debt shrinks. If I do not over-indulge in things that I couldn't previously afford, I should be able to use that savings to completely pay off most of my debt by the end of the 2026. With no debt, I should really be able to build up some savings in 2027. If I can make it a couple more years at my current employer, I should be able to step away from IT and move to a part-time, low-paying job until I reach early-retirement age. By then, I should be able to retire comfortably just on Social Security alone.</p>
+
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/happy-new-year.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/happy-new-year.html</link>
+<guid>http://www.nitemarecafe.com/./happy-new-year.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Thu, 01 Jan 2026 13:21:10 -0500</pubDate></item>
 </channel></rss>
