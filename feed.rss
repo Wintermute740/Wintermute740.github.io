@@ -2,9 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Fri, 26 Jun 2026 12:05:11 -0400</lastBuildDate>
-<pubDate>Fri, 26 Jun 2026 12:05:11 -0400</pubDate>
+<lastBuildDate>Fri, 26 Jun 2026 12:25:48 -0400</lastBuildDate>
+<pubDate>Fri, 26 Jun 2026 12:25:48 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Review: The Invention of Lying (2009)
+</title><description><![CDATA[
+
+<p>Somehow, 2009's <a href="https://www.imdb.com/title/tt1058017/">The Invention of Lying</a>
+managed to fly under my radar when it came out, so this is my original viewing and
+not a rewatch.</p>
+<p>In it, humanity is unable to lie. There isn't even a word for telling a
+falsehood. Movies are documentaries, advertising is honest, and your date tells
+you upfront the they're not attacted to you so you're probably not getting lucky.
+Suddenly, a character played by Ricky Gervais discovered that he has the ability
+to lie, and his bank just trusts him and assumes their system is in error when he
+withdraws more than what is in his account in order to pay his rent.</p>
+<p>The brutal honesty up until that point, and leading up to it, is absolutely 
+both messed up and hilarious as the same time. And the movie is great until
+sometime around this point.</p>
+<p>When his mother is dying, and is afraid, he basically invents religion, the
+afterlife, and all that. He becomes wealthy as a result, and the movie slowly
+slides into the "money can't buy happiness" trope, but I don't think it ever
+actually made it all the way there. It seems more of a critisism of religion by
+that point, and while some of the jabs at apologetics are humorous, it's no
+longer nearly as laugh-out-loud funny. And there are some touching moments as
+well because, despite their continued inability to lie, the other characters do
+manage to show some growth.</p>
+<p>This one is worth the watch, espcially the first half or so. I'm not sure I
+am likely to revisit it, though, unless I forget I've seen it and decide to
+check it out again at a future date. It's just kind of the sort of movie that is
+enjoyable enough but forgettable at the same time.</p>
+
+<p>Tags: <a href='tag_reviews.html'>reviews</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_the-invention-of-lyinng.html'>the-invention-of-lyinng</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/review-the-invention-of-lying-2009.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/review-the-invention-of-lying-2009.html</link>
+<guid>http://www.nitemarecafe.com/./review-the-invention-of-lying-2009.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 26 Jun 2026 12:25:45 -0400</pubDate></item>
 <item><title>
 Rewatch: Hiding Out (1987)
 </title><description><![CDATA[
@@ -250,20 +287,4 @@ FreeTube
 <guid>http://www.nitemarecafe.com/./freetube.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sun, 11 Jan 2026 19:00:51 -0500</pubDate></item>
-<item><title>
-Snowsky Echo Mini
-</title><description><![CDATA[
-
-<p>I just picked up a <b>Snowsky Echo Mini</b> mp3 player along with a couple of cheap pair of wired headphones, <b>Sony MDR-ZX110</b> on-ear headphones and <b>RORSOU R10</b> over-ear headphones. I tested both pair on my laptop to get a feel for how they sound, and both perform better than their pricepoint but about what one would expect from a fairly good pair of each type.</p>
-
-<p>The mp3 player has 8GB of storage built in but also takes microSD, but the 8GB is plenty if I carefully curate my music instead of just dumping everything I own onto it. I do need to re-tage all my music, as most show as "unknown" during playback, but this thing sounds pretty amazing. I am so glad that I decided to ditch the smartphone and go with more dedicated devices. I think this will fix my relationship with music.</p>
-
-<p>Tags: <a href='tag_mp3-player.html'>mp3-player</a>, <a href='tag_headphones.html'>headphones</a>, <a href='tag_review.html'>review</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/snowsky-echo-mini.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/snowsky-echo-mini.html</link>
-<guid>http://www.nitemarecafe.com/./snowsky-echo-mini.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 10 Jan 2026 13:33:17 -0500</pubDate></item>
 </channel></rss>
