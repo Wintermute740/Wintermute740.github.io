@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Mon, 08 Jun 2026 18:35:01 -0400</lastBuildDate>
-<pubDate>Mon, 08 Jun 2026 18:35:01 -0400</pubDate>
+<lastBuildDate>Fri, 26 Jun 2026 12:05:11 -0400</lastBuildDate>
+<pubDate>Fri, 26 Jun 2026 12:05:11 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Rewatch: Hiding Out (1987)
+</title><description><![CDATA[
+
+<p>I just finished another 80's movie rewatch that I remember watching as a teen.
+This is the first time I've <a href="https://www.imdb.com/title/tt0093186/">Hiding Out</a> 
+in decades. The quick summary is that a stockbroker is a whitness in a case against
+ a mobster and has to go into hiding. He winds up at a highschool, where the administration
+ mistakes him as a student, so he enrolls. Hilarily ensues. </p>
+
+<p>It's a simple premise (actually, both... Person hiding from mobster and adult
+in high school) but it still works. It's funny, and it has touching parts as well.
+ Overall, worth rewatching.</p>
+
+<p>Tags: <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_hiding-out.html'>hiding-out</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/rewatch-hiding-out-1987.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/rewatch-hiding-out-1987.html</link>
+<guid>http://www.nitemarecafe.com/./rewatch-hiding-out-1987.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Fri, 26 Jun 2026 12:05:07 -0400</pubDate></item>
 <item><title>
 Motorcycle
 </title><description><![CDATA[
@@ -244,26 +266,4 @@ Snowsky Echo Mini
 <guid>http://www.nitemarecafe.com/./snowsky-echo-mini.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Sat, 10 Jan 2026 13:33:17 -0500</pubDate></item>
-<item><title>
-Flip Phone
-</title><description><![CDATA[
-
-<p>I just posted this to Facebook and thought I would cross-post it here</p><p>
-I just ordered a flip phone, like it's 2003 or something. 😉 I still need my smartphone for authentication apps for work, but those apps work over wifi too... It has an offline music player, a camera, navigations, and hotspot support. If I *need* to do something data-centric while I am out and about, I can still use a tablet or briefly power up my smartphone or something. I'll probably install my ATA and either a wall phone or my payphone to use as a house phone. I need to convert the payphone to free calls if I go that route, but I've been having problems programming it. Could just replace the board, I guess. 😉
-</p><p>
-I just need to quit letting technology drive my non-working life, and when I am working with technology in my spare time, it's one of my hobbies (repairing, retrogaming, etc) and not just mindless scrolling. I'll probably block most social media at my firewall. Maybe automate unblocking it for a short window over the weekend so I can still check in occasionally. I've locked down my accounts fairly well and have my contact info viewable to friends, so anyone can still text and email me if they choose to. 🙂
-Pretty sure I have ADHD on top of my ASD, because the constant notifications (which I'm mostly turned off on my personal stuff, but is still an issue during my work day with that stuff) is making it impossible for me to concentrate on anything these days.
-</p><p>
-I just need to get outside and touch grass every now and then. I need to be present more to set that example for my kids, and get them out of Roblox every now and them and do something different. Maybe I'll get them into D&D and start a small campaign (I have the "Welcome to Hellfire Club" starter kit waiting at my PO Box, and my oldest like Stranger Things. Should be an easy sell. lol) Maybe start geocaching again. Practicing guitar more regularly (started strong the last time, but fell off quick). Bringing my telescope to the RV and getting some use out of it. I haven't really used it since I lived in Cardington.
-</p><p>Anyhow. If you don't see me on here much anymore, I'm out enjoying life. If you need to get in touch, if you're reading this you have access to my info. 😉
-</p>
-
-<p>Tags: <a href='tag_facebook.html'>facebook</a>, <a href='tag_detox.html'>detox</a>, <a href='tag_flip-phone.html'>flip-phone</a>, <a href='tag_life.html'>life</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/flip-phone.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/flip-phone.html</link>
-<guid>http://www.nitemarecafe.com/./flip-phone.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Thu, 08 Jan 2026 11:33:29 -0500</pubDate></item>
 </channel></rss>
