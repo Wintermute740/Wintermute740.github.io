@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 04 Aug 2026 07:51:04 -0400</lastBuildDate>
-<pubDate>Tue, 04 Aug 2026 07:51:04 -0400</pubDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:48:04 -0400</lastBuildDate>
+<pubDate>Sat, 15 Aug 2026 10:48:04 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Joseph "Lew" Green
+</title><description><![CDATA[
+
+<p>I am posting this here on the off chance that someone stumbles across it and has further information
+about my second great-grandfather.</p>
+
+<p>Joseph "Lew" Green was born to Viana Marlow before she married James Pike. He was born in Bell Co, KY
+and married Phebe (also spelled Pheobe and other variations) Jones. He had two brothers, James and John
+Green, both likely sons of James Pike. Viana remarried and had a daughter named Millie Waggoner. His
+maternal grandmother's maiden name was Sarah Green, which is potentially where his surname comes from.</p>
+
+<p>Please <a href="mailto:genealogy@nitemarecafe.com?subject=Joseph%20%22Lew%22%20Green">contact me</a> 
+if you are able to help.</p>
+
+<p>Tags: <a href='tag_genealogy.html'>genealogy</a>, <a href='tag_green.html'>green</a></p>
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/joseph-lew-green.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+]]></description><link>http://www.nitemarecafe.com/joseph-lew-green.html</link>
+<guid>http://www.nitemarecafe.com/./joseph-lew-green.html</guid>
+<dc:creator>Wintermute</dc:creator>
+<pubDate>Sat, 15 Aug 2026 10:48:02 -0400</pubDate></item>
 <item><title>
 Early-mid 2010s Gaming Machine
 </title><description><![CDATA[
@@ -335,20 +358,4 @@ wall.</p>
 <guid>http://www.nitemarecafe.com/./barnhart-paternal-line.html</guid>
 <dc:creator>Wintermute</dc:creator>
 <pubDate>Tue, 07 Apr 2026 20:49:19 -0400</pubDate></item>
-<item><title>
-Trust Your Technolust
-</title><description><![CDATA[
-
-<p>I ordered this because I thought it was kinda cool, seeing as I've been interested in cybersecurity since before I even started a career in IT. Also love <a href="https://hak5.org">Hak5</a>'s products (the pager  is absolutely awesome). I even knew there were some puzzles on the coin. What I didn't know was that the puzzles lead to a grand prize for one lucky hacker. Some are saying it's an all-out ARG. So... Who wants to help me solve this and share the prize with me? ;)</p>
-
-<p><img src="images/20-year-hak5-challenge-coin_1000_transparent_2000x.webp" /></p>
-
-<p>Tags: <a href='tag_hak5.html'>hak5</a>, <a href='tag_arg.html'>arg</a></p>
-<!-- text end -->
-<p id='twitter'><a href="http://www.nitemarecafe.com/trust-your-technolust.html#disqus_thread">Comments?</a> &nbsp;
-</p>
-]]></description><link>http://www.nitemarecafe.com/trust-your-technolust.html</link>
-<guid>http://www.nitemarecafe.com/./trust-your-technolust.html</guid>
-<dc:creator>Wintermute</dc:creator>
-<pubDate>Sat, 24 Jan 2026 20:48:44 -0500</pubDate></item>
 </channel></rss>
