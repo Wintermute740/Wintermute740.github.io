@@ -1,28 +1,30 @@
-/* Container background for the navigation bar */
+/* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
+  overflow: hidden; /* CRITICAL: Forces modern browsers to contain the floats */
+  display: block;   /* Ensures it acts as a full-width container */
   width: 100%;
-  border-collapse: collapse; /* Prevents gaps between cells */
 }
 
-/* Ensure table cells stretch evenly and contain no default padding */
-.topnav td {
-  padding: 0;
-  margin: 0;
-  text-align: center;
+/* Clearfix for older rendering engines */
+.topnav::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
-/* Style the links inside the navigation cells */
+/* Style the links inside the navigation bar */
 .topnav a {
-  display: block; /* Allows the link to fill the entire table cell */
-  color: #f2f2f2;
+  float: left; /* CRITICAL: This forces them horizontal on modern browsers */
+  color: #f2f2f2 !important;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  display: block;
 }
 
-/* Change the color of links on hover (Modern browsers) */
+/* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
