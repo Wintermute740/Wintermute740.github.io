@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Nitemare Cafe</title><link>http://www.nitemarecafe.com/</link>
 <description>A day in the life of a computer geek</description><language>en</language>
-<lastBuildDate>Tue, 08 Sep 2026 13:41:37 -0400</lastBuildDate>
-<pubDate>Tue, 08 Sep 2026 13:41:37 -0400</pubDate>
+<lastBuildDate>Tue, 08 Sep 2026 13:57:25 -0400</lastBuildDate>
+<pubDate>Tue, 08 Sep 2026 13:57:25 -0400</pubDate>
 <atom:link href="http://www.nitemarecafe.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Eddie and the Cruisers
@@ -41,6 +41,7 @@ good enough to make that cut.</p>
 
 <p>Tags: <a href='tag_movies.html'>movies</a>, <a href='tag_reviews.html'>reviews</a>, <a href='tag_eddie-and-the-cruisers.html'>eddie-and-the-cruisers</a>, <a href='tag_eddie-lives.html'>eddie-lives</a></p>
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/eddie-and-the-cruisers.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -64,6 +65,7 @@ maternal grandmother's maiden name was Sarah Green, which is potentially where h
 if you are able to help.</p>
 
 <p>Tags: <a href='tag_genealogy.html'>genealogy</a>, <a href='tag_green.html'>green</a></p>
+
 
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/joseph-lew-green.html#disqus_thread">Comments?</a> &nbsp;
@@ -115,6 +117,7 @@ systemd. I installed MATE as my desktop to keep it as light as possible, and wil
 most of my games throught Lutris and other emulator front-ends.</p>
 
 <p>Tags: <a href='tag_emulation.html'>emulation</a>, <a href='tag_gaming.html'>gaming</a>, <a href='tag_pc.html'>pc</a></p>
+
 
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/early-mid-2010s-gaming-machine.html#disqus_thread">Comments?</a> &nbsp;
@@ -178,6 +181,7 @@ Wintermute
 </div>
 
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/doctype-html.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -188,6 +192,51 @@ Wintermute
 Wintermute
 
 Wintermute
+
+
+
+<!-- text end -->
+<p id='twitter'><a href="http://www.nitemarecafe.com/doctype-html.html#disqus_thread">Comments?</a> &nbsp;
+</p>
+<!-- entry end -->
+
+<div id="disqus_thread">
+            <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+               var disqus_shortname = 'nitemarecafe'; // required: replace example with your forum shortname
+
+            /* * * DONT EDIT BELOW THIS LINE * * */
+            (function() {
+            var dsq = document.createElement("script"); dsq.type = "text/javascript"; dsq.async = true;
+            dsq.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+            (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
+            })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<div id="footer"><a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC by-nc 4.0</a> <a href="/about.html">Wintermute</a> &mdash; <a href="mailto:wintermute&#64;nitemarecafe&#46;com">wintermute&#64;nitemarecafe&#46;com</a><br />
+Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a>, a single bash script to easily create blogs like this one<br />
+This site has been visited <img src="images/counter.gif" alt="way too many" /> times
+
+<script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'nitemarecafe'; // required: replace example with your forum shortname
+
+        /* * * DONT EDIT BELOW THIS LINE * * */
+        (function () {
+        var s = document.createElement("script"); s.async = true;
+        s.type = "text/javascript";
+        s.src = "//" + disqus_shortname + ".disqus.com/count.js";
+        (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s);
+    }());
+    </script>
+        
+    
+
+</body></html>
+
+Wintermute
+
 
 
 
@@ -247,6 +296,7 @@ grandparents, etc. I thought I would share a quick snapshot of where I am:</p>
 
 <p>Tags: <a href='tag_genealogy.html'>genealogy</a></p>
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/reset-my-family-tree.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -264,6 +314,7 @@ extremely old browsers. The new .css is nearly the same, but not quite, and
 should fix those issues.</p>
 
 <p>Tags: <a href='tag_updates.html'>updates</a></p>
+
 
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/slight-update.html#disqus_thread">Comments?</a> &nbsp;
@@ -303,6 +354,7 @@ enjoyable enough but forgettable at the same time.</p>
 
 <p>Tags: <a href='tag_reviews.html'>reviews</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_the-invention-of-lyinng.html'>the-invention-of-lyinng</a></p>
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/review-the-invention-of-lying-2009.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -325,6 +377,7 @@ in high school) but it still works. It's funny, and it has touching parts as wel
  Overall, worth rewatching.</p>
 
 <p>Tags: <a href='tag_rewatch.html'>rewatch</a>, <a href='tag_movies.html'>movies</a>, <a href='tag_hiding-out.html'>hiding-out</a></p>
+
 
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/rewatch-hiding-out-1987.html#disqus_thread">Comments?</a> &nbsp;
@@ -382,6 +435,7 @@ starting the bike up.</p>
 
 <p>Tags: <a href='tag_motorcycle.html'>motorcycle</a>, <a href='tag_x-pro.html'>x-pro</a>, <a href='tag_bd125-11.html'>bd125-11</a>, <a href='tag_ninja.html'>ninja</a>, <a href='tag_125cc.html'>125cc</a></p>
 
+
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/motorcycle.html#disqus_thread">Comments?</a> &nbsp;
 </p>
@@ -416,6 +470,7 @@ Mathias paternal line
 <p>And there we have the 15 generations prior to me from the Mathias side.</p>
 
 <p>Tags: <a href='tag_mathias.html'>mathias</a>, <a href='tag_genealogy.html'>genealogy</a>, <a href='tag_paternal.html'>paternal</a></p>
+
 
 <!-- text end -->
 <p id='twitter'><a href="http://www.nitemarecafe.com/mathias-paternal-line.html#disqus_thread">Comments?</a> &nbsp;

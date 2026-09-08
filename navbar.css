@@ -1,20 +1,13 @@
-/* Container background for the navigation bar */
+i/* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
-  width: 100%;
-  border-collapse: collapse; /* Prevents gaps between cells */
+  overflow: hidden;
+  white-space: nowrap; /* CRITICAL FOR WEBTV: Prevents links from breaking to a new line */
 }
 
-/* Ensure table cells stretch evenly and contain no default padding */
-.topnav td {
-  padding: 0;
-  margin: 0;
-  text-align: center;
-}
-
-/* Style the links inside the navigation cells */
+/* Style the links inside the navigation bar */
 .topnav a {
-  display: block; /* Allows the link to fill the entire table cell */
+  display: inline-block; /* Replacement for float: left */
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -22,7 +15,7 @@
   font-size: 17px;
 }
 
-/* Change the color of links on hover (Modern browsers) */
+/* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
