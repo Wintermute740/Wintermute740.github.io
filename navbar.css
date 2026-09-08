@@ -25,3 +25,11 @@
   background-color: #04AA6D;
   color: white;
 }
+
+/* Clearfix to force floated links to stay horizontal */
+.topnav::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
