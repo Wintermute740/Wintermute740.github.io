@@ -1,0 +1,45 @@
+/* Table container overrides */
+table.topnav-table {
+  background-color: #333;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Cell padding replaces anchor padding for ultra-old browsers */
+table.topnav-table td {
+  padding: 14px 16px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Base link styles */
+table.topnav-table a {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+/* Hover state targeting the cell for a full background change */
+table.topnav-table td:hover {
+  background-color: #ddd;
+}
+table.topnav-table td:hover a {
+  color: #000000;
+}
+
+/* Active state applied to the cell */
+table.topnav-table td.active {
+  background-color: #04AA6D;
+}
+table.topnav-table td.active a {
+  color: #ffffff;
+}
+
+/* New: Prevents the hover effect on the empty right-side spacer cell */
+table.topnav-table td.nav-spacer:hover {
+  background-color: transparent;
+}
+

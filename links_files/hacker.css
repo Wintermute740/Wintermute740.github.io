@@ -1,0 +1,125 @@
+/* ==========================================================================
+   NITEMARE CAFE BBS - RETRO-OPTIMIZED TEXT CSS
+   Optimized for 8088 CPUs, mTCP, and Vintage Text-Based Browsers
+   ========================================================================== */
+
+/* --- 1. CORE SYSTEM LAYOUT & BACKGROUND --- */
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    background-color: #0e0e0e;
+}
+
+body {
+    background-color: #0e0e0e;
+    color: #99f2b9; /* Classic Terminal Green Text */
+    margin: 15px;
+    padding: 0;
+}
+
+/* --- 2. THE MONOSPACE "HACKER" FONT STACK --- */
+/* Forces vintage terminal font alignment across modern and legacy software */
+body, 
+h1, h2, h3, h4, h5, h6, 
+.h1, .h2, .h3, .h4, .h5, .h6, 
+code, kbd, pre, samp, 
+popover, tooltip {
+    font-family: "IBM Plex Mono", "JetBrains Mono", "Fira Mono", Consolas, Inconsolata, ui-monospace, monospace;
+}
+
+/* --- 3. HYPERLINKS --- */
+a {
+    color: #99f2b9;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+a:hover, 
+a:active {
+    outline: 0;
+    color: #ffffff; /* Turns white on hover for clear visibility */
+}
+
+/* --- 4. TYPOGRAPHY & STRUCTURE --- */
+h1 { margin: .67em 0; font-size: 1.6em; font-weight: 700; }
+h2 { font-size: 1.4em; font-weight: 700; }
+h3 { font-size: 1.2em; font-weight: 700; }
+b, strong, dt, label { font-weight: 700; }
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+    border: 0;
+    border-top: 1px dashed #99f2b9; /* Creates a vintage dashed-line separator */
+    margin: 20px 0;
+}
+
+/* --- 5. CODE BLOCKS & TEXT ARCHIVES --- */
+/* Keeps layout spacing inside preformatted text intact (critical for ASCII/ANSI layouts) */
+pre {
+    display: block;
+    padding: 10px;
+    margin: 0 0 10px;
+    font-size: 1em;
+    line-height: 1.42857143;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #99f2b9;
+    background-color: #141414;
+    border: 1px solid #99f2b9;
+    border-radius: 4px;
+    overflow: auto;
+}
+
+code, kbd, pre, samp {
+    font-size: 1em;
+}
+
+pre code {
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    white-space: pre-wrap;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+/* --- 6. SIMPLE TABLES --- */
+/* Lightweight structural framework for old file directories and logs */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+td, th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #1a3a24;
+    text-align: left;
+}
+
+th {
+    font-weight: bold;
+    border-bottom: 2px solid #99f2b9;
+}
+
+/* --- 7. UTILITIES & ACCESSIBILITY --- */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
+[hidden], template {
+    display: none;
+}
+
